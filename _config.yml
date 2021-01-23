@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Satnam Singh
-description: Hacking about circuits, functional programming and verification.
+layout: personal
+title: Satnam Singh
+description: Satnam Singh's personal website
 logo: images/satnam.jpg
 footer-links:
   github: satnam6502
