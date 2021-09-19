@@ -33,6 +33,10 @@ Low key bars with plenty of locals.
 * [Kelvingrove Art Gallery and Museum](https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum)
 * [Hunterian Museum](https://www.gla.ac.uk/hunterian/)
 * [Mackintosh House](https://www.gla.ac.uk/hunterian/collections/permanentdisplays/themackintoshhouse/)
+* [Riverside Museum](https://www.glasgowlife.org.uk/museums/venues/riverside-museum)
+* [The Burrell Collection](https://burrellcollection.com/)
+* [Pollock House](https://www.nts.org.uk/visit/places/pollok-house)
+* [The Finnieston Crane](https://bigcranco.co.uk/)
 
 ## Walks
 * Walk along the River Kelvin. Start at Kelvinbridge Underground station and follow the river up to the Botanic Gardens. Visit the  Kibble Palace greenhouse and have tea in the tearoom.
