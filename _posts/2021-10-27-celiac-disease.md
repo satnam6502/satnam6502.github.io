@@ -1,6 +1,11 @@
 ---
-layout: tech
+layout: personal
+title: Celiac Disease
+permalink: /celiac/
+tags:
+  author: satnam_singh
 ---
+
 # Celiac Disease
 
 I have celiac disease which is an autoimmune disease with no cure (not to be confused with a wheat allergy or a lifestyle choice). If you have kindly invited me to dinner (or to a restaurant) then I apologetically ask you to ensure you totally abstain from using the following ingredients or get a guarantee from the restaurant manager that at least one dish can be prepared gluten-free with no chance of cross contamination. If these challenging constraints are too difficult to meet then I kindly ask you to un-invite me to dinner: I will take absolutely no offense.
@@ -13,7 +18,7 @@ PLEASE TOTALLY AVOID (or check the label of):
 * **<font color='red'>Pasta</font>**. However it is easy to obtain gluten-free pasta made from rice flour or corn flour (or some other gluten-free flour).
 * **<font color='red'>Cakes</font>**. However, cakes made with gluten-free flour are not too bad (I can provide a decent recipe for a basic sponge cake using Cup 4 Cup gluten-free flour).
 * **<font color='red'>Soy sauce</font>**. Almost all soy sauce has gluten in it (unless you buy special gluten free soya sauce like the one made by Kikkoman and available in Dreagers). An alternative is gluten-free tamari (but please check the label because some tamari does contain gluten).
-* Miso soup (which is usually made from barely). Miso paste which is made from soya beans is OK.
+* **<font color='red'>Miso soup.</font>**. Miso soup is usually made from barely. Miso paste which is made from soya beans is OK.
 * Soups, broths and stocks made in a factory.
 * Curry powder (check label).
 * Most sauces in tins, jars etc. This includes chili sauces, oyster sauce, and Hoisin sauce which lists wheat in their ingredients list. There are a few brands that have gluten-free versions of these sauce e.g. most of the sauces made by Thai Kitchen are gluten free e.g. their Thai red curry paste (but not all -- check the labels or their handy allergy chart).
