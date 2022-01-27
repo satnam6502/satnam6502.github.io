@@ -18,7 +18,7 @@ Feeds six hungry people, serve with basmati rice.
 * 4 tablespoons of olive oil.
 * 2 onions (about 350g), peeled, quartered.
 * 50g ginger, peeled and roughly chopped.
-* 35g garlic clove, peeled.
+* 35g garlic cloves, peeled.
 * 45g green serrano chilies, tips removed, roughly chopped, or 3 green Thai chilies.
 * 800g can of tomatoes.
 * 1 teaspoon of ground turmeric.
