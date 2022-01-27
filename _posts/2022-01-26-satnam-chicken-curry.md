@@ -25,7 +25,7 @@ Feeds six hungry people, serve with basmati rice.
 * 2 teaspoons of ground cumin.
 * 2 teaspoons of ground coriander.
 * 1 teaspoon of red chili powder.
-* 6g of dried fenugreek leaves (methi).
+* 6g of dried fenugreek leaves (Kasoori methi).
 * 1kg of skinless boneless chicken thighs.
 * 500ml of just boiled water.
 * 1 teaspoon of garam masala.
@@ -37,9 +37,9 @@ Feeds six hungry people, serve with basmati rice.
 3. Add the pureed onions and mix with oil.
 4. Add ½ a teaspoon of salt and mix (don't skip the salt, it is needed to properly cook the onions).
 5. Cook the onions for about five minutes. You want most of the water to evaporate from the onions and when you stir them they should come together and farm a ball.
-6. While the onions are cooking blitz the ginger, garlic and green chilies in a food processor.
+6. While the onions are cooking, blitz the ginger, garlic and green chilies in a food processor.
 7. When the onions are cooked and dry enough (they won't brown) add the ginger, garlic and green chili mix and cook for another 3 minutes or so until the aroma of these ingredients is evident.
-8. Finely puree the can of tomatoes and add mix them into the pot.
+8. Finely puree the can of tomatoes and mix them into the pot.
 9. Add 1½ teaspoons of salt, the ground spices, and the fenugreek leaves and stir well.
 10. Chop the chicken thighs into bite size pieces and throw into the pot.
 11. Add 500ml of water.
