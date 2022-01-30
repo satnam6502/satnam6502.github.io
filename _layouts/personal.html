@@ -12,9 +12,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
-<meta name="twitter:site" content="@satnam6502">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:site" content="@{{site.twitter.username }}" />
+<meta name="twitter:creator" content="@{{site.twitter.username }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title }}" />
 {% if page.description %}
   <meta name="twitter:description"
     content="{{ page.description }}">
@@ -25,18 +26,17 @@
 {% endif %}
 
 {% if page.image %}
-<meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
 {% else %}
-<meta name="twitter:image" content="https://raintown.org/images/satnam.jpg">
+<meta name="twitter:image" content="{{ logo.image }}" />
 {% endif %}
-
 
   </head>
   <body>
     <div class="wrapper">
       <header>
         
-        <img src="/images/beardy.jpg" alt="Satnam Singh" />
+        <img src="/images/mad_scientist_small.jpg" alt="Satnam Singh" />
 
 	<p>Work: <a href = "mailto: ssingh@groq.com">ssingh@groq.com</a></br>
 	   Personal: <a href = "mailto: satnam@raintown.org">satnam@raintown.org</a></br>

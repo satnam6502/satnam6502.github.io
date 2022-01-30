@@ -3,9 +3,12 @@ title: Satnam Singh
 layout: personal
 title: Satnam Singh
 description: Satnam Singh's personal website
-logo: images/satnam.jpg
-url: raintown.org
+logo: images/mad_scientist_small.jpg
+url: http://raintown.org/
 google_analytics: UA-123139621-1
 footer-links:
   github: satnam6502
   twitter: satnam6502
+twitter:
+  username: satnam6502
+  card: summary_large_image
