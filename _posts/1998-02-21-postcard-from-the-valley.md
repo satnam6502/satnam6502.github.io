@@ -14,6 +14,7 @@ California 95032-3483\
 USA\
 Tel: +1 408 358 9736 
 
+21 February 1998
 
 This is a rather long e-mail message about my experience of moving to California. It’s about 4 A4 pages of text, so you may wish to discard it or read it at a later date. There are a few positive remarks at the end :-)
 
