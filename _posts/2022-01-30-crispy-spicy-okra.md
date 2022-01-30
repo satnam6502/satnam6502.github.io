@@ -30,4 +30,4 @@ Small starter portion for 6 to 8 people.
 4. Mix salt, chili powder and turmeric and throw into oil and mix for about 30 seconds until well combined (but don’t let the spices burn).
 5. Toss in the okra and mix well to get an even coverage of the spice mix.
 6. Keep stirring regularly (but not constantly). At some point the okra will become slimey. Keep going, adding a little more ghee/oil if required, but be careful not to add too much. After a while the slimey stage will pass and the okra will start to crisp up and get a bit smaller. Taste a piece every so often and adjust for salt and chili powder. Keep cooking until you achieve the desired level of crispiness.
-7. Divide amongst browns and scatter coriander leaves.
+7. Divide amongst bowls and scatter coriander leaves.
