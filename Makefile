@@ -5,3 +5,6 @@ build:
 
 serve:
 	bundler exec jekyll serve --watch 	
+
+push:	build
+	./push.sh
