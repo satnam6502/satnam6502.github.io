@@ -10,7 +10,7 @@ tags:
 # Atelier Crenn
 16 February 2022
 
-My second visit to Dominique Crenn's San Francisco restaurant which now has three stars. We enjoyed the [Chef's Table](https://www.netflix.com/watch/80075152) Netflix program about her. I had a gluten-free multi-course pescatarian teating menu. I also had an alcohol-free pairing.
+My second visit to Dominique Crenn's San Francisco restaurant which now has three stars. We enjoyed the [Chef's Table](https://www.netflix.com/watch/80075152) Netflix program about her. I had a gluten-free multi-course pescatarian tasting menu. I also had an alcohol-free pairing.
 
 ### Kir Breton
 ![Kir Breton](/images/kir-breton.jpg)
