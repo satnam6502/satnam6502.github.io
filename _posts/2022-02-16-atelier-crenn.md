@@ -3,7 +3,7 @@ layout: personal
 title: Atelier Crenn
 description: Dinner at Dominique Crenn's three star restaurant where the menu is described with poetry.
 permalink: /atelier-crenn/
-image: "/images/asparagus-perigord.jpg"
+image: "/images/onion-white-pearl.jpg"
 tags:
   author: satnam_singh
 ---
