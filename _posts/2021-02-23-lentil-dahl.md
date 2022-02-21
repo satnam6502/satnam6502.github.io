@@ -25,14 +25,14 @@ Based on the recipe from [The Bombay Brasserie Cookbook](https://www.amazon.co.u
 * Frozen (or fresh) curry leaves (optional)
  
 ### Tempering 
-* 4 tablespoons vegetable oil.
+* 4 tablespoons vegetable oil
 * 4 large onions (about 1.2 kg), chopped 
 * 2 teaspoons cumin seeds 
 * 6 garlic cloves, crushed or chopped
-* 1 cm ginger, chopped
-* 4 green chillies, seeded and chopped (optional)
+* 1 cm ginger, peeled and chopped
+* 4 green chillies, seeded and chopped
 * 4 teaspoons Kashmiri chili powder
-* 4 tomatoes, coarsely chopped or a 400g can of chopped tomatoes
+* 4 tomatoes, coarsely grated, or use a 400g can of chopped tomatoes
  
 ### Recipe 
 1. Rinse the lentils and dahl in running water and remove any stones.
