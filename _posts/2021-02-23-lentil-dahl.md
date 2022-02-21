@@ -14,27 +14,28 @@ tags:
 Based on the recipe from [The Bombay Brasserie Cookbook](https://www.amazon.co.uk/Bombay-Brasserie-Cookbook-authentic-flavours/dp/1857938860). Makes about 8 servings.
 
 ### Lentils 
-300g red lentils (masoor dal)
-150g chana dahl (split gram)
-3 teaspoons turmeric 
-2 teaspoons chili powder
-2 ½ teaspoons salt
-2 litres water
-Coriander to garnish (or stir in frozen curry leaves)
-2 red dried chilies to garnish (optional)
-Frozen curry leaves (optional)
+* 300g red lentils (masoor dal)
+* 150g chana dahl (split gram)
+* 3 teaspoons turmeric 
+* 2 teaspoons chili powder for a mild level of spice
+* 2 ½ teaspoons salt
+* 2 litres water
+* Coriander leaves to garnish (or stir in frozen curry leaves)
+* 2 red dried chilies to garnish (optional)
+* Frozen (or fresh) curry leaves (optional)
  
 ### Tempering 
-4 tablespoons vegetable oil.
-4 large onions (about 1.2 kg), chopped 
-2 teaspoons cumin seeds 
-6 garlic cloves, crushed or chopped
-1 cm ginger, chopped
-4 green chillies, seeded and chopped (optional)
-4 teaspoons Kashmiri chili powder
-4 tomatoes, coarsely chopped or a 400g can of chopped tomatoes
+* 4 tablespoons vegetable oil.
+* 4 large onions (about 1.2 kg), chopped 
+* 2 teaspoons cumin seeds 
+* 6 garlic cloves, crushed or chopped
+* 1 cm ginger, chopped
+* 4 green chillies, seeded and chopped (optional)
+* 4 teaspoons Kashmiri chili powder
+* 4 tomatoes, coarsely chopped or a 400g can of chopped tomatoes
  
 ### Recipe 
+* Rinse the lentils and dahl in running water and remove any stones.
 * Mix lentil ingredients in a large pot cover and bring to boil on a high heat. About 10 minutes.
 * Simmer on medium heat with slightly ajar lid cover until most of the liquid is absorbed and the chana dahl is breaking down. Stir occasionally to avoid the dahl sticking to the bottom of the pot. Approximately 50 minutes.
 * Melt oil in a frying pan. 
@@ -43,5 +44,7 @@ Frozen curry leaves (optional)
 * Add the onion and continue frying on medium until it turns brown. 
 * Stir in green chillies, ginger and chilli powder and continue frying for 1.5 minutes. 
 * Stir in tomatoes. 
-* Pour tempering over lentils and stir. 
+* Pour tempering over lentils and stir.
+* Taste for salt, adding more if required.
 * Mix in coriander leaves. Garish with a few dried red chilies.
+* Serve with basmati rice, or a good chunk of crusty white bread.
