@@ -2,7 +2,7 @@
 layout: personal
 title: "Chicken Tikka Masala: Marks and Spencer vs. Waitrose Ready Meals"
 description: "Taste test to compare two chicken tikka masla ready meals: Marks and Spencer vs. Waitrose."
-permalink: /ctm-ms-wairose/
+permalink: /ctm-ms-waitrose/
 image: "/images/ctm-ms-waitrose.jpg"
 tags:
   author: satnam_singh
