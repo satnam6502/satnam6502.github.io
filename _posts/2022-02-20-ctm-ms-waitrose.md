@@ -8,6 +8,7 @@ tags:
   author: satnam_singh
 ---
 # Chicken Tikka Masala: Marks and Spencer vs. Waitrose Ready Meals
+20 February 2022
 
 [Marks and Spencer's Chicken Tikka Masala (CTM)](https://www.ocado.com/products/m-s-our-best-ever-chicken-tikka-masala-514974011) ready meal has been my gold standard for CTM for many years. Whenever I travel to the UK, I make it a priority to score some M&S CTM and take it to my mum's house to be microwaved and served with some basmati rice. However, [Waitrose](https://www.waitrose.com/ecom/products/waitrose-indian-chicken-tikka-masala/041729-20682-20683) also make a mean CTM. Tonight for our family meal we served both and took votes to see if M&S is still the king of CTM or whether Waitrose has taken the throne.
 
