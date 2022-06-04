@@ -8,7 +8,7 @@ tags:
   author: satnam_singh
 ---
 # Cail Bruich
-13 May 2022
+13 May 2022. Joint birthday lunch for Satnam and Kiran.
 
 ## Chef’s table experience, Friday 13th May 2022
 
@@ -55,4 +55,7 @@ Served with Krug grand cuvée 169ème édition, reims, Champagne, NV
 ![kitchen 1](/images/cb-kitchen1.jpg)
 ![kitchen 2](/images/cb-kitchen2.jpg)
 ![outside](/images/cb-outside.jpg)
+![peaches](/images/cb-bread.jpg)
 ![peaches](/images/cb-peaches.jpg)
+![small dessert 1](/images/cb-dessert1.jpg)
+![small dessert 2](/images/cb-dessert2.jpg)
