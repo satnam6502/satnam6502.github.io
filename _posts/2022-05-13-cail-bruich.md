@@ -3,7 +3,7 @@ layout: personal
 title: Cail Bruich
 description: Birthday dinner at the one star Glasgow restaurnt Cail Bruich.
 permalink: /cail-bruich/
-image: "images/large-cocktail.jpg"
+image: "images/nibble3.jpg"
 tags:
   author: satnam_singh
 ---
