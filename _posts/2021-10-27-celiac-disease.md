@@ -65,6 +65,8 @@ To a first approximation, all unprocessed ingredients are gluten-free unless the
 
 Please try to avoid ingredients from bulk bins at supermarkets due to possible contamination.
 
+The picture at the top of this post is by Lou Beach and is taken from the New York Times article [Gluten-Free, Whether You Need It or Not](https://archive.nytimes.com/well.blogs.nytimes.com/2013/02/04/gluten-free-whether-you-need-it-or-not).
+
 ## More information:
 
 * [Traveling while gluten free](https://www.theguardian.com/lifeandstyle/2016/apr/24/gluten-free-travel-celiac-disease-a-survival-guide): a survival guide (Jodi Ettenberg's excellent article in The Guardian newspaper)
