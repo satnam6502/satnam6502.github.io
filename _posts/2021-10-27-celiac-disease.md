@@ -2,11 +2,14 @@
 layout: personal
 title: Celiac Disease
 permalink: /celiac/
+image: "/images/gf-poison.jpg"
 tags:
   author: satnam_singh
 ---
 
 # Celiac Disease
+
+![GF poison](/images/gf-poison.jpg)
 
 I have celiac disease which is an autoimmune disease with no cure (not to be confused with a wheat allergy or a lifestyle choice). If you have kindly invited me to dinner (or to a restaurant) then I apologetically ask you to ensure you totally abstain from using the following ingredients or get a guarantee from the restaurant manager that at least one dish can be prepared gluten-free with no chance of cross contamination. If these challenging constraints are too difficult to meet then I kindly ask you to un-invite me to dinner: I will take absolutely no offense.
 
