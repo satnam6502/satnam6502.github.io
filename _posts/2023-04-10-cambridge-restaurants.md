@@ -1,0 +1,27 @@
+---
+layout: personal
+title: "Cambridge Restaurants"
+description: "An Ad Hoc List of Cambridge Restaurants"
+permalink: /cambridge-restaurants/
+image: "/images/kings.jpg"
+tags:
+  author: satnam_singh
+---
+# An Ad Hoc List of Cambridge Restaurants
+
+![Kings](/images/kings.jpg)
+
+I used to live in Cambridge UK and I still get asked for recommendations for restaurants in Cambridge. Here is a list of restaurants I like. The list includes casual restaurants that are good for a large good with dietary restrictions as well as highly creative restaurants that you need to book months in advance. Of course there are many others that I've not been to which I am sure are also very lovely but not listed here.
+
+* [The Architect.](https://www.thearchitectcambridge.co.uk/) A pub that serves great fish and chip, pies etc. I especially love it because it serves gluten free fish and chips, which put a celiac sufferer like me in seventh heaven. Good for a large group if you book ahead.
+* [The Old Bicycle Club.](https://www.oldbicycleshop.com/) An informal casual restaurant with a diverse menu that can cater to a range of dietary restrictions. Good for a large group if you book ahead.
+* [Fin Boys.](https://fin-boys.com/) A very good seafood that champions British fish caught from day boats.
+* [Vanderlyle.](https://www.vanderlyle-restaurant.com/) A highly innovative restaurant with a plant-led tasting menu. Book well in advance.
+* [The Senate.](https://www.thesenatebistro.com/) A vegan friendly bistro overlooking the bustling marker square of Cambridge.
+* [MJP@TheShepherds](https://www.mjprestaurant.com/) This pub-style fancy restaurant just outside Cambridge serves a tasting menu featuring local produce cooked to a high level of quality.
+* [The Oak Bistro.](https://www.theoakbistro.co.uk/) A solid choice for British and European classics.
+
+The following Michelin starred restaurants won't serve me because I have celiac disease and need gluten free food. I've heard other people say good things about them. Personally, I am annoyed that they are not willing to serve me.
+
+*[Midsummer House.](https://midsummerhouse.co.uk/)
+*[Restaurant 22.](https://www.restaurant22.co.uk/)
