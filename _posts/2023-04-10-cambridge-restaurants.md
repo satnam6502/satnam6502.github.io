@@ -20,8 +20,19 @@ I used to live in Cambridge UK and I still get asked for restaurant recommendati
 * [The Senate.](https://www.thesenatebistro.com/) A vegan friendly bistro overlooking the bustling market square of Cambridge.
 * [MJP@TheShepherds](https://www.mjprestaurant.com/) This pub-style fancy restaurant just outside Cambridge serves a creative tasting menu featuring local produce.
 * [The Oak Bistro.](https://www.theoakbistro.co.uk/) A solid choice for British and European classics.
+* [The Kingston Arms.](https://thekingstonarms.co.uk) Neighbourhood pub serving great pub food.
+* [The Three Horseshoes](https://threehorseshoesmadingley.co.uk/) Quinitessentially posh British pub serving well made British fare, just outside Cambridge.
 
 The following Michelin starred restaurants won't serve me because I have celiac disease and need gluten free food. I've heard other people say good things about them.
 
 * [Midsummer House.](https://midsummerhouse.co.uk/)
 * [Restaurant 22.](https://www.restaurant22.co.uk/)
+
+Restaurants I have eaten at but have chosen not to include on my list above. You might like them better than I did e.g. if unlike me you don't have celiac disease.
+
+* [Navadhanya.](https://www.navadhanya.co.uk/) An Indian restaurant.
+* [Luk Thai at the Cricketers.](https://www.lukthai.com) Thai food in a pub.
+* [Hotel du Vin Bistro.](https://www.hotelduvin.com/locations/cambridge/bistro/dinner/) This used to be a favourite of mine back in the day.
+* [The Ivy.](https://ivycollection.com/restaurants/the-ivy-cambridge-brasserie)
+* [The Plough.](https://theploughcoton.co.uk/) Pub just to the west of Cambridge serving upscale pub food. This used to be a favourite of ours, but has taken a different turn of late.
+* [The Peking.](http://www.pekingrestaurantcambridge.com) Chinese restaurant catering to British tastes.
