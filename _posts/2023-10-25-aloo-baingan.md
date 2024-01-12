@@ -3,13 +3,13 @@ layout: personal
 title: "Aloo Baingan"
 description: "Aubergine and potato comfort food."
 permalink: /aloo_baingan/
-image: "images/aloo_baingan.jpg"
+image: "/images/aloo_baingan.jpg"
 tags:
   author: satnam_singh
 ---
 # Aloo Baingan
 
-![Aloo Baingan](images/aloo_baingan.jpg)
+![Aloo Baingan](/images/aloo_baingan.jpg)
 
 For 4 people.
 
