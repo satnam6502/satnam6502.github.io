@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: personal
 ---
 # Directions
 We live at 437 Panchita Way, Los Altos, CA 94022. Please call our home number if you get lost: +1 650 383 7650. If you arrive when it is dark please use a satellite navigation system to find our house. [View Gogole map showing our house.](http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=437+Panchita+Way,+Los+Altos,+CA&amp;aq=0&amp;oq=437&amp;sll=37.0625,-95.677068&amp;sspn=57.161276,100.722656&amp;ie=UTF8&amp;hq=&amp;hnear=437+Panchita+Way,+Los+Altos,+California+94022&amp;t=m&amp;z=14&amp;ll=37.389258,-122.110287)

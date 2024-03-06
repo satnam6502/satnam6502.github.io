@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: personal
 image: saag.jpg
 ---
 # Saag

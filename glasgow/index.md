@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: personal
 ---
 # Satnam's Visitor Guide To Glasgow
 Sometimes I get asked for suggestions for things to do and see in Glasgow. Rather than attempting to produce an exhaustive list of things to do I've focused on a few things that I like and I expect you can easily Google the other top tourist attractions.

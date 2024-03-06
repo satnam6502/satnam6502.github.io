@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: personal
 ---
 # Recipes
 * [Saag](saag.md)
