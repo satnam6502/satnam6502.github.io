@@ -1,6 +1,7 @@
 SERVER=satnam@oban.raintown.org
+HR=raintow@ssh.raintown.org
 
-.PHONY: build serve
+.PHONY: build serve sva
 
 build:	
 	bundler exec jekyll build
@@ -14,5 +15,12 @@ push:	build
 rpush:	build
 	scp -r _site/* satnam@oban.raintown.org:public_html
 
+hrpush:	build
+		scp -r _site/* $(HR):public_html
+
 inc:	build
-		scp  _site/bio/index.html $(SERVER):public_html/bio
+		scp  -r _site/talks $(SERVER):public_html
+
+
+sva:		build
+		scp -r  _site/sva $(SERVER):public_html
