@@ -21,7 +21,7 @@ As a broadly educated man he had the capability to intersect technology with eco
 
 The [UK Post Office IT scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal) reminds us how the big and powerful continue to cover up their failings by wrongly blaming innocent individuals. Big corporations entirely control the development and deployment of machine learning technology which will increasingly make inscrutable judgments about our lives, and us. Politics and government is attempting to make some inroads to try regulate AI. However, the world needs many more Ross Andersons in academic positions where they have the platform to speak truth to power, and fight for the ordinary person, to stamp out injustice, and fight for what is right and decent.
 
-Here is a picture of the last time I saw Ross in person, in January 2024 at Fin Boys restaurant in Cambridge, here shown with our mutual friend Sanjay. Anyone that knew Ross understood the depth of love and commitment he had to his family. Beyond that, he was a galus friend.
+This is a picture of the last time I saw Ross in person, in January 2024 at Fin Boys restaurant in Cambridge, here shown with our mutual friend Sanjay. Anyone that knew Ross understood the depth of love and commitment he had to his family. Beyond that, he was a galus friend.
 
 ![Ross Sanjay](/images/ross_sanjay.jpg)
 
