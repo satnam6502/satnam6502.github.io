@@ -19,7 +19,8 @@ hrpush:	build
 		scp -r _site/* $(HR):public_html
 
 inc:	build
-		scp  -r _site/talks $(SERVER):public_html
+		# scp _site/images/ross_anderson.jpg $(SERVER):public_html/images
+		scp  -r _site/ross_anderson $(SERVER):public_html
 
 
 sva:		build
