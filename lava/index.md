@@ -16,14 +16,14 @@ sorter cmp n = two (sorter cmp (n-1)) >->
 circuits with layout skim this page and then go straight to [A Sorter Example in Lava](sorter).
 
 * [A Hardware Description Language in Haskell](#a-hardware-sescription-language-in-haskell)
-* [Netlists in Lava](netlists)
-* [Layout in Lava](layout)
-* [An Adder Example](adder)
-* [An Adder Tree in Lava](adder_tree)
-* [A Sorter Example in Lava](sorter)
-* [A 1D Systolic Finite Impulse Response Filter](fir)
-* [A Constant Coefficient Multiplier Core in Lava](kcm)
-* [Xilinx Lava Tutorials](old_tutorials)
+* [Netlists in Lava](netlists.md)
+* [Layout in Lava](layout.md)
+* [An Adder Example](adder.md)
+* [An Adder Tree in Lava](adder_tree.md)
+* [A Sorter Example in Lava](sorter.md)
+* [A 1D Systolic Finite Impulse Response Filter](fir.md)
+* [A Constant Coefficient Multiplier Core in Lava](kcm.md)
+* [Xilinx Lava Tutorials](old_tutorials.md)
 
 ## A Hardware Description Language in Haskell
 [I](http://satnam.fpcastle.com) started developing Lava around 1998 when I worked at Xilinx to help produce FPGA circuits that were more compact and high performance that could practically
