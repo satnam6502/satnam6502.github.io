@@ -5,7 +5,7 @@ logo: sorter_recursion.jpg
 ---
 # Lava
 
-<p> <img src="sorter_recursion.jpg"></p>
+<p> <img src="sorter/sorter_recursion.jpg"></p>
 ```haskell
 sorter cmp 1 = cmp 
 sorter cmp n = two (sorter cmp (n-1)) >-> 
@@ -20,7 +20,7 @@ circuits with layout skim this page and then go straight to [A Sorter Example in
 * [Layout in Lava](layout.md)
 * [An Adder Example](adder.md)
 * [An Adder Tree in Lava](adder_tree.md)
-* [A Sorter Example in Lava](sorter.md)
+* [A Sorter Example in Lava](sorter)
 * [A 1D Systolic Finite Impulse Response Filter](fir.md)
 * [A Constant Coefficient Multiplier Core in Lava](kcm.md)
 * [Xilinx Lava Tutorials](old_tutorials.md)
