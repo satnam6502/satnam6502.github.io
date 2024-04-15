@@ -19,8 +19,8 @@ hrpush:	build
 		scp -r _site/* $(HR):public_html
 
 inc:	build
-		scp _site/images/saison-*.jpg $(SERVER):public_html/images
-		scp  -r _site/saison $(SERVER):public_html
+		# scp _site/images/saison-*.jpg $(SERVER):public_html/images
+		scp  -r _site/satnam $(SERVER):public_html
 
 
 sva:		build
