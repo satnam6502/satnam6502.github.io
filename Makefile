@@ -20,7 +20,8 @@ hrpush:	build
 
 inc:	build
 		# scp _site/images/saison-*.jpg $(SERVER):public_html/images
-		scp  -r _site/lava $(SERVER):public_html
+		scp  -r _site/satnam $(SERVER):public_html
+		scp  -r _site/bio $(SERVER):public_html
 
 
 sva:		build
