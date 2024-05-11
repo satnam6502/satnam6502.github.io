@@ -1,7 +1,7 @@
 ---
 layout: personal
 title: "Defiance and Thatcher"
-description: Defiance and Thatcher"
+description: "Defiance and Thatcher"
 permalink: /defiance/
 image: "/images/ravenscraig.jpg"
 tags:
@@ -20,7 +20,7 @@ I would get randomly stopped walking down the street and bundled into the back o
 
 However, racism seemed checkered, black and white, acute in some aspects of society, almost absent in others. It's as if my brown face was allowed in some aspects of British society, but barred from others. Education ended up being my only available path forward.
 
-Being in poverty meant that I qualified for a government stipend to buy a school uniform (required at the local state school). I persuaded my parents to get me a cheap used uniform from a local charity shop and instead use the money to help buy a BBC Model A Microcomputer like the one the high school computing club had (note my Twitter handle, named after the chip in that computer). That one act initiated the line of dots that led me to go to university (with full financial support from the government back then since I came from a welfare family), complete two degrees, become an academic, and then go on to work in Silicon Valley. Sadly that level of state support is much eroded now in the UK.
+Being in poverty meant that I qualified for a government stipend to buy a school uniform (required at the local state school). I persuaded my parents to get me a cheap used uniform from a local charity shop and instead use the money to help buy a BBC Model A Microcomputer like the one the high school computing club had (note my Twitter handle, named after the chip in that computer). That one act initiated the line of dots that led me to go to university (with full financial support from the government back then since I came from a welfare family), complete two degrees, become an academic, and then go on to work in Silicon Valley. My parents were illiterate, but all of their children got PhDs and become lecturers. Sadly that level of state support is much eroded now in the UK.
 
 I recall recently asking a friend why he was going to an Eric Clapton concert, pointing out [Clapton's racist comments](https://twitter.com/PavSingh84/status/1777585734565687688), [Rock Against Racism](https://en.wikipedia.org/wiki/Rock_Against_Racism), and his continued troubling behaviour. He said he liked his music and was going anyway. There have been many occasions like this that were a slap in the face, a reminder that even my friends don't really care/accept/value me as a fellow Brit, and which just helped to emphasized my continued belief that even with a [First Class British Airways ticket](https://twitter.com/lemnsissay/status/1777434482204725676), I am still a second class citizen. The feeling of not belonging, being an imposter etc. is deeply ingrained in me today, and I don't have the words to describe how out of place I felt at the companies I worked at like Google, Microsoft and Facebook, surrounded by peers from Ivy League universities who definitely did not grow up on welfare. 
 
