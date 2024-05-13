@@ -11,7 +11,7 @@ tags:
 
 ![GF poison](/images/gf-poison.jpg)
 
-I have celiac disease which is an autoimmune disease with no cure (not to be confused with a wheat allergy or a lifestyle choice). From 2012 to May 2024 I followed a strict gluten-free diet, making sure nothing I ate contained more than 20ppm (parts per million) of gluten. I found following such a strict diet to be exasperating and it has taken a toll on my mental health. Anyone who knows me knows how much I love cooking and restaurants. It is utterly alienating to be excluded from enjoying food with others, either by not being invited in the first place, or by having to forgo delicious main courses and cakes (and I especially love cake!).
+I have celiac disease which is an autoimmune disease with no cure (not to be confused with a wheat allergy or a lifestyle choice). From 2012 to May 2024 I followed a strict gluten-free diet, making sure nothing I ate contained more than 20ppm (parts per million) of gluten. I found following such a strict diet to be exasperating and it has taken a toll on my mental health. Anyone who knows me knows how much I love cooking and restaurants. It is utterly alienating to be excluded from enjoying food with others, either by not being invited in the first place, or by having to forgo delicious main courses and cakes.
 
 Celiac disease kills in many ways e.g. death from stomach cancer. If the only downside was temporary short term extreme pain then I would just consume gluten and be done with it, given how much I love food and cooking. Sometimes I might have no physical reaction to being glutenated, but the damage is still being done. That's why I can tell you if I have been gluentated, but I can't tell you if I have not. 
 
