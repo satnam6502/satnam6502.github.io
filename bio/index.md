@@ -24,7 +24,7 @@ He is a Senior Member of the ACM and IEEE and a Fellow of the IET. He is also an
 
 | Employer | Role and Location |
 |----------|----------|
-| 2021 — present | Fellow, [Groq](http://groq.com)<br> Mountain View, California
+| 2021 — 2025 | Fellow, [Groq](http://groq.com)<br> Mountain View, California
 | 2019 — 2021 | Software Engineer, [Google Research](https://research.google/) (formerly Google AI)<br> Mountain View, California, USA<br>Also Lecturer at [UC Santa Cruz](https://engineering.ucsc.edu/), Jack Baskin School of Engineering
 | 2017 — 2019 | Software Engineer, [Google X](https://x.company/)<br> Mountain View, California, USA
 | 2015 — 2017 | Software Engineer, [Facebook](http://facebook.com)<br>Menlo Park, California, USA
