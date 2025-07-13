@@ -43,420 +43,164 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 # Publications
 
-## 1989
+**Accelerator Compiler for the VENICE Vector Processor** - Zhiduo Liu, Aaron Severance, Guy G.F. Lemieux, Satnam Singh. *FPGA 2012, Monterey*. ACM, 2012.
 
-**Implementation of a Non-Standard Interpretation System**  
-Satnam Singh  
-*Glasgow Functional Programming Workshop, Fraserburgh*  
-Springer-Verlag, 1989
+**Resource-bounded multicore emulation using Beefarm** - Oriol Arcas, Nehir Sonmez, Gokhan Sayilar, Satnam Singh, Osman S. Unsal, Adrian Cristal, Ibrahim Hur, Mateo Valero. *Journal of Microprocessors and Microsystems*, 2012.
 
-**Application of Non-Standard Interpretation: Testability**  
-Satnam Singh  
-*Design of Correct VLSI Circuits. Proc. IFIP-IMEC Workshop, Belgium*  
-North Holland, 1989
+**From Plasma to BeeFarm: Design Issues and Experience of an FPGA-based Multicore Prototype** - Oriol Arcas, Adrian Cristal, Ibrahim Hur, Satnam Singh, Nehir Somez. *7th International Symposium on Applied Reconfigurable Computing (ARC 2011)*. Springer Verlag, March 23, 2011.
 
-## 1990
+**The RLOC is Dead -- Long Live the RLOC** - Satnam Singh. *ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*. ACM, February 27, 2011.
 
-**Differentiating Strictness**  
-Satnam Singh  
-*Glasgow Functional Programming Workshop, Ullapool*  
-Springer-Verlag, 1990
+**TMbox: A Flexible and Reconfigurable 16-core Hybrid Transactional Memory System** - Oriol Arcas, Adrian Cristal, Ibrahim Hur, Otto Pflücker, Satnam Singh, Nehir Somez, Osman Unsal. *FPGAs for Custom Computing Machines 2011*. IEEE Computer Society, May 1, 2011.
 
-## 1991
+**Reconfigurable Data Processing for Clouds** - Anil Madhavapeddy, Satnam Singh. *FPGAs for Custom Computing Machines 2011*, May 2, 2011.
 
-**Circuit Layout using NSI**  
-Satnam Singh  
-*Advanced Research Workshop on Correct Hardware Design Methodologies, Turin*  
-North-Holland, 1991
-
-**An X11/XView Interpreter for Miranda**  
-Satnam Singh  
-*Glasgow Functional Programming Workshop, Portree*  
-Springer-Verlag, 1991
+**An Analysis of Programmer Productivity versus Performance for High Level Data Parallel Programming** - Alexander Cole, Alistair McEwan, Satnam Singh. *Communicating Processor Architectures*. Elsevier, June 19, 2011.
 
-**Analysis of Hardware Descriptions**  
-Satnam Singh  
-*PhD Thesis, University of Glasgow*, 1991
+**Distributing C# Methods and Threads over Ethernet-connected FPGAs using Kiwi** - David Greaves, Satnam Singh. *Ninth ACM/IEEE International Conference on Formal Methods and Models for Codesign*. IEEE, July 11, 2011.
 
-## 1992
+**Compiling Affine Recursion into Static Hardware** - Dan Ghica, Alex Smith, Satnam Singh. *The 16th ACM SIGPLAN International Conference on Functional Programming*. ACM, September 19, 2011.
 
-**Circuit Analysis by Non-Standard Interpretation**  
-Satnam Singh  
-*Second IFIP WG10.2/WG10.5 Workshop on Designing Correct Circuits, Lyngby, Denmark*  
-North-Holland, 1992
+**Computing Without Processors** - Satnam Singh. *Communications of the ACM*, August 2011.
 
-## 1993
+**Designing Hardware with Dynamic Memory Abstraction** - Jiří Šimša, Satnam Singh. *ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*. Association for Computing Machinery, Inc., February 22, 2010.
 
-**Designing Graphical User Interfaces for Haskell**  
-Satnam Singh, Alastair Reid  
-*Glasgow Functional Programming Workshop, Ayr*  
-Springer-Verlag, 1993
+**FPGA Circuit Synthesis of Accelerator Data-Parallel Programs** - Barry Bond, Kerry Hammil, Lubomir Litchev, Satnam Singh. *FPGAs for Custom Computing Machines*. IEEE Computer Society, May 3, 2010.
 
-**Hardware Synthesis Techniques for Algebraic HDLs**  
-Satnam Singh  
-*SASIMI'93, Nara, Japan*, 1993
+**Designing Application Specific Circuits with Concurrent C# Programs** - David Greaves, Satnam Singh. *Eighth ACM/IEEE Intl. Conference on Formal Methods and Models for Codesign*. IEEE, July 26, 2010.
 
-## 1994
-
-**Virtual Hardware for Graphics Applications using FPGAs**  
-Satnam Singh, Pierre Bellec  
-*FCCM'94, Napa, California*  
-IEEE Computer Society Press, 1994
-
-**Accelerating Graphics using FPGAs**  
-Satnam Singh, Pierre Bellec  
-*Canadian Workshop on Field-Programmable Devices, Kingston*  
-June 13-16, 1994
-
-## 1995
-
-**Architectural Descriptions for FPGAs**  
-Satnam Singh  
-*FCCM'95, Napa, California*  
-IEEE Computer Society Press, 1995
-
-**Ruby as a basis for Hardware/Software Co-Design**  
-Mary Sheeran, Satnam Singh  
-*IEE Symposium on Hardware/Software Co-Design*  
-IEE, London, October 1995
-
-## 1996
-
-**New HDL Research Challenges posed by Dynamically Reprogrammable Hardware**  
-Jonathan Hogg, Satnam Singh, Mary Sheeran  
-*APCHDL'96, Bangalore*, January 1996
-
-**Expressing Dynamic Reconfiguration by Partial Evaluation**  
-Satnam Singh, Jonathan Hogg, Derek McAuley  
-*FCCM'96, Napa, California*  
-IEEE Computer Society Press, 1996
+**A Tutorial on Parallel and Concurrent Programming in Haskell** - Simon Peyton Jones, Satnam Singh. *Advanced Functional Programming Summer School 2008*. LNCS, 2009.
 
-## 1997
-
-**A Dynamic Reconfiguration Run-Time System**  
-Jim Burns, Adam Donlin, Jonathan Hogg, Satnam Singh, Mark de Wit  
-*FCCM'97, Napa, California*  
-IEEE Computer Society Press, 1997
-
-## 1998
-
-**Accelerating Adobe Photoshop with Reconfigurable Logic**  
-Satnam Singh, Robert Slous  
-*FCCM'98, Napa, California*  
-IEEE Computer Society Press, 1998
-
-**Applications of Run-Time Specialisation for FPGAs**  
-Nicholas McKay, Satnam Singh  
-*FCCM'98, Napa, California*  
-IEEE Computer Society Press, 1998
-
-**Accelerating DTP with Reconfigurable Computing Engines**  
-Donald MacVicar, Satnam Singh  
-*FPL'98, Talin, Estonia*  
-Springer-Verlag, 1998
-
-**Lava: Hardware Design in Haskell**  
-Per Bjesse, Koen Claessen, Mary Sheeran, Satnam Singh  
-*ICFP'98*  
-Springer-Verlag LNCS, 1998
-
-**Partial Evaluation of Hardware**  
-Satnam Singh, Nicholas McKay  
-*Partial Evaluation Summer School 98, Copenhagen, Denmark*  
-Springer-Verlag LNCS, 1998
-
-**Dynamic Specialisation of XC6200 FPGAs by Partial Evaluation**  
-Nicholas McKay, T. F. Melham, K.W. Susanto, Satnam Singh  
-*Proceedings of the IEEE Symposium on FPGAs for Custom Computing Machines*, 1998
-
-**Formal Methods for Intellectual Property**  
-Carl Johan Block, Satnam Singh  
-*Nordic Formal Methods Workshop 98, Turku, Finland*, 1998
-
-## 1999
-
-**Dynamic Specialisation of XC6200 FPGAs by Partial Evaluation**  
-Nicholas McKay, Satnam Singh  
-*FPL'98, Talin, Estonia*  
-Springer-Verlag LNCS 1706, 1999
-
-**Formal Verification of FPGA Cores**  
-Carl Johan Lillieroth, Satnam Singh  
-*Nordic Journal of Computing*, 6:299-310, 1999
-
-**Bezier Curve Rendering on Virtex™**  
-Donald MacVicar, Satnam Singh, Robert Slous  
-*FCCM'99, Napa, California*  
-IEEE Computer Society Press, 1999
-
-**Rendering PostScript™ Fonts on FPGAs**  
-Donald MacVicar, Satnam Singh  
-*FPL'99, Glasgow, UK*  
-Springer-Verlag LNCS, 1999
-
-**Debugging Techniques for Dynamically Reconfigurable Hardware**  
-Nicholas McKay, Satnam Singh  
-*FCCM'99, Napa, California*  
-IEEE Computer Society Press, 1999
-
-**Photoshop Acceleration using Virtex**  
-Satnam Singh, Stefan Ludwig  
-*FPL'99, Glasgow, UK*  
-Springer-Verlag LNCS, 1999
+**A Bluespec Implementation of an FPGA-based Photoshop Plug-In** - Satnam Singh. *Hardware Design and Functional Languages 2009 (an ETPAS workshop)*, March 2009.
 
-**Formal Verification of Reconfigurable Cores**  
-Satnam Singh, Carl Johan Lillieroth  
-*FCCM'99, Napa, California*  
-IEEE Computer Society Press, 1999
-
-## 2000
+**Synthesis of a Parallel Smith-Waterman Sequence Alignment Kernel into FPGA Hardware** - Satnam Singh, David Greaves, Sutirtha Sanyal. *Many-Core and Reconfigurable Supercomputing Conference 2009, Berlin*, March 2009.
 
-**The Lava HDL for FPGA Design**  
-Satnam Singh, Mary Sheeran  
-*HDLCON'2000, San Jose*, 2000
+**Exploiting System-Level Concurrency Abstractions for Hardware Descriptions** - David J. Greaves, Satnam Singh. *Microsoft Technical Report number MSR-TR-2009-48*, April 22, 2009.
 
-**Death of the RLOC?**  
-Satnam Singh  
-*FCCM'2000, Napa, California*  
-IEEE Computer Society Press, 2000
+**Design and Verification of Peripheral Control Circuits in Esterel** - Satnam Singh. *Journal of Concurrency and Computation: Practice and Experience*, Wiley, 2009.
 
-**Formal Verification of FPGA Cores**  
-Carl Johan Lillieroth, Satnam Singh  
-*Nordic Journal of Computing*, April 2000
+**Parallel Performance Tuning for Haskell** - Don Jones Jr., Simon Marlow, Satnam Singh. *ACM SIGPLAN 2009 Haskell Symposium, Edinburgh*. Association for Computing Machinery, Inc., September 3, 2009.
 
-**Checking safety properties using induction and a SAT-solver**  
-Mary Sheeran, Satnam Singh, Gunnar Stalmarck  
-*Formal Methods in Computer Aided Design (FMCAD), Austin*, November 2000
+**Runtime Support for Multicore Haskell** - Simon Marlow, Simon Peyton Jones, Satnam Singh. *International Conference on Functional Programming (ICFP) 2009*. Association for Computing Machinery, Inc., September 5, 2009.
 
-## 2001
+**Finding heap-bounds for hardware synthesis** - Byron Cook, Ashutosh Gupta, Stephen Magill, Andrey Rybalchenko, Jiří Šimša, Satnam Singh, Viktor Vafeiadis. *Formal Methods in Computer Aided Design (FMCAD), Austin*, November 15, 2009.
 
-**Lava and JBits: From HDL to Bitstream in Seconds**  
-Satnam Singh, Phil James-Roxby  
-*IEEE Symposium on FPGAs for Custom Computing Machines 2001*  
-Eds. K.L. Pocek and J.M. Arnold, IEEE Computer Society Press, 2001
+**Kiwi: Synthesis of FPGA Circuits from Parallel Programs** - David Greaves, Satnam Singh. *IEEE Symposium on FPGAs for Custom Computing Machines (FCCM), Palo Alto*, April 2008.
 
-**Rapid Construction of Partial Configuration Datastreams from High Level Constructs using JBits**  
-Satnam Singh, Phil James-Roxby  
-*Field-Programmable Logic and Applications*  
-Springer-Verlag LNCS, August 2001
+**A Deterministic Multi-Way Rendezvous Library for Haskell** - Stephen Edwards, Satnam Singh, Nalini Vasudevan. *IEEE International Parallel and Distributed Processing Symposium (IPDPS), Miami*, April 2008.
 
-**The Design and Verification of a Sorter Core**  
-Koen Claessen, Mary Sheeran, Satnam Singh  
-*CHARME'2001, Livingston, Scotland*  
-Springer-Verlag LNCS, September 2001
+**Describing Hardware with Parallel Programs** - David Greaves, Satnam Singh. *Designing Correct Circuits (DCC), Budapest*, 2008.
 
-## 2002
+**Using C# Attributes to Describe Hardware Artefacts within Kiwi** - David Greaves, Satnam Singh. *Forum on Design Languages (FDL)*, 2008.
 
-**Lava: An Embedded Language for Structural Hardware Design**  
-Koen Claessen, Mary Sheeran, Satnam Singh  
-*Designing Correct Circuits, Grenoble, France*, April 2002
+**Declarative Programming Techniques for Many-Core Architectures** - Satnam Singh. *Hardware Design and Functional Languages*, 2007.
 
-**Using Lava to Design and Verify Recursive and Periodic Sorters**  
-Koen Claessen, Mary Sheeran, Satnam Singh  
-*International Journal on Software Tools for Technology Transfer*, 2002
+**Integrating FPGAs in High-Performance Computing: Programming Models for Parallel Systems – The Programmer's Perspective** - Satnam Singh. *ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*. Association for Computing Machinery, Inc., February 2007.
 
-**Types for Describing Dynamic Reconfiguration**  
-Satnam Singh  
-*The International Conference on Computer Aided Design*, 2002
+**Hardware/Software Synthesis and Verification using Esterel** - Satnam Singh. *CPA 2007*.
 
-## 2003
+**New Parallel Programming Techniques for Hardware Design** - Satnam Singh. *WG 10.5 International Conference on Very Large Scale Integration, Atlanta, GA*. October 15-17, 2007.
 
-**Functional Hardware Description in Lava**  
-Koen Claessen, Mary Sheeran, Satnam Singh  
-*Book chapter in The Fun of Programming*  
-Palgrave, 2003
+**Feedback Directed Implicit Parallelism** - Tim Harris, Satnam Singh. *International Conference on Functional Programming (ICFP) 2007, Freiburg*, October 2007.
 
-**System Level Specification in Lava**  
-Satnam Singh  
-*Design, Automation and Test in Europe (DATE), Munich*, 2003
+**Lock Free Data Structures using STMs in Haskell** - Anthony Discolo, Tim Harris, Simon Marlow, Simon Peyton Jones, Satnam Singh. *Eighth International Symposium on Functional and Logic Programming, Fuji Susono, Japan*, April 2006.
 
-**An approach to compiling Cryptol to FPGAs**  
-John Launchbury, Satnam Singh  
-*3rd Annual High Confidence Software and Systems Conference, Proceedings*  
-Galois Connections and Xilinx, April 2003, pp. 137-146
+**Higher Order Combinators for Join Patterns using STM** - Satnam Singh. *First ACM SIGPLAN Workshop on Languages, Compilers, and Hardware Support for Transactional Computing (TRANSCAT)*, June 2006.
 
-**Design and Verification of CoreConnect IP using Esterel**  
-Satnam Singh  
-*The 12th Advanced Research Working Conference on Correct Hardware Design and Verification Methods (CHARME 2003), L'Aquila, Italy*  
-Springer-Verlag, 2003
+**Digital CAD Tools as Transactional Memory Workloads** - Satnam Singh. *Workshop on Transactional Memory Workloads*, June 2006.
 
-**System Level Design and Verification Using a Synchronous Language**  
-Gérard Berry, Michael Kishinevsky, Satnam Singh  
-*The International Conference on Computer Aided Design*, 2003
+**An Asynchronous Messaging Library for C#** - Gerogio Chrysanthakopoulos, Satnam Singh. *Synchronization and Coordination in Object Orientated Languages. An OOPSLA workshop, San Diego*, October 2005.
 
-## 2004
+**A Demonstration of Co-Design and Co-Verification in a Synchronous Language** - Satnam Singh. *Design, Automation and Test in Europe (DATE), Paris*, 2004.
 
-**A Demonstration of Co-Design and Co-Verification in a Synchronous Language**  
-Satnam Singh  
-*Design, Automation and Test in Europe (DATE), Paris*, 2004
+**Designing Reconfigurable Systems in Lava** - Satnam Singh. *Keynote speech at the reconfigurable systems track of VLSI Design 2004, Mumbai*, 2004.
 
-**Designing Reconfigurable Systems in Lava**  
-Satnam Singh  
-*Keynote speech at the reconfigurable systems track of VLSI Design 2004, Mumbai*, 2004
+**Functional Hardware Description in Lava** - Koen Claessen, Mary Sheeran, Satnam Singh. *Book chapter in The Fun of Programming*. Palgrave, 2003.
 
-## 2005
+**System Level Specification in Lava** - Satnam Singh. *Design, Automation and Test in Europe (DATE), Munich*, 2003.
 
-**An Asynchronous Messaging Library for C#**  
-Gerogio Chrysanthakopoulos, Satnam Singh  
-*Synchronization and Coordination in Object Orientated Languages. An OOPSLA workshop, San Diego*, October 2005
+**An approach to compiling Cryptol to FPGAs** - John Launchbury, Satnam Singh. *3rd Annual High Confidence Software and Systems Conference, Proceedings*. Galois Connections and Xilinx, April 2003, pp. 137-146.
 
-## 2006
+**Design and Verification of CoreConnect IP using Esterel** - Satnam Singh. *The 12th Advanced Research Working Conference on Correct Hardware Design and Verification Methods (CHARME 2003), L'Aquila, Italy*. Springer-Verlag, 2003.
 
-**Lock Free Data Structures using STMs in Haskell**  
-Anthony Discolo, Tim Harris, Simon Marlow, Simon Peyton Jones, Satnam Singh  
-*Eighth International Symposium on Functional and Logic Programming, Fuji Susono, Japan*, April 2006
+**System Level Design and Verification Using a Synchronous Language** - Gérard Berry, Michael Kishinevsky, Satnam Singh. *The International Conference on Computer Aided Design*, 2003.
 
-**Higher Order Combinators for Join Patterns using STM**  
-Satnam Singh  
-*First ACM SIGPLAN Workshop on Languages, Compilers, and Hardware Support for Transactional Computing (TRANSCAT)*, June 2006
-
-**Digital CAD Tools as Transactional Memory Workloads**  
-Satnam Singh  
-*Workshop on Transactional Memory Workloads*, June 2006
+**Lava: An Embedded Language for Structural Hardware Design** - Koen Claessen, Mary Sheeran, Satnam Singh. *Designing Correct Circuits, Grenoble, France*, April 2002.
 
-## 2007
+**Using Lava to Design and Verify Recursive and Periodic Sorters** - Koen Claessen, Mary Sheeran, Satnam Singh. *International Journal on Software Tools for Technology Transfer*, 2002.
 
-**Declarative Programming Techniques for Many-Core Architectures**  
-Satnam Singh  
-*Hardware Design and Functional Languages*, 2007
+**Types for Describing Dynamic Reconfiguration** - Satnam Singh. *The International Conference on Computer Aided Design*, 2002.
 
-**Integrating FPGAs in High-Performance Computing: Programming Models for Parallel Systems – The Programmer's Perspective**  
-Satnam Singh  
-*ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*  
-Association for Computing Machinery, Inc., February 2007
-
-**Hardware/Software Synthesis and Verification using Esterel**  
-Satnam Singh  
-*CPA 2007*
-
-**New Parallel Programming Techniques for Hardware Design**  
-Satnam Singh  
-*WG 10.5 International Conference on Very Large Scale Integration, Atlanta, GA*  
-October 15-17, 2007
-
-**Feedback Directed Implicit Parallelism**  
-Tim Harris, Satnam Singh  
-*International Conference on Functional Programming (ICFP) 2007, Freiburg*, October 2007
-
-## 2008
-
-**Kiwi: Synthesis of FPGA Circuits from Parallel Programs**  
-David Greaves, Satnam Singh  
-*IEEE Symposium on FPGAs for Custom Computing Machines (FCCM), Palo Alto*, April 2008
-
-**A Deterministic Multi-Way Rendezvous Library for Haskell**  
-Stephen Edwards, Satnam Singh, Nalini Vasudevan  
-*IEEE International Parallel and Distributed Processing Symposium (IPDPS), Miami*, April 2008
-
-**Describing Hardware with Parallel Programs**  
-David Greaves, Satnam Singh  
-*Designing Correct Circuits (DCC), Budapest*, 2008
-
-**Using C# Attributes to Describe Hardware Artefacts within Kiwi**  
-David Greaves, Satnam Singh  
-*Forum on Design Languages (FDL)*, 2008
-
-## 2009
-
-**A Tutorial on Parallel and Concurrent Programming in Haskell**  
-Simon Peyton Jones, Satnam Singh  
-*Advanced Functional Programming Summer School 2008*  
-LNCS, 2009
-
-**A Bluespec Implementation of an FPGA-based Photoshop Plug-In**  
-Satnam Singh  
-*Hardware Design and Functional Languages 2009 (an ETPAS workshop)*, March 2009
-
-**Synthesis of a Parallel Smith-Waterman Sequence Alignment Kernel into FPGA Hardware**  
-Satnam Singh, David Greaves, Sutirtha Sanyal  
-*Many-Core and Reconfigurable Supercomputing Conference 2009, Berlin*, March 2009
-
-**Exploiting System-Level Concurrency Abstractions for Hardware Descriptions**  
-David J. Greaves, Satnam Singh  
-*Microsoft Technical Report number MSR-TR-2009-48*, April 22, 2009
-
-**Design and Verification of Peripheral Control Circuits in Esterel**  
-Satnam Singh  
-*Journal of Concurrency and Computation: Practice and Experience*, Wiley, 2009
-
-**Parallel Performance Tuning for Haskell**  
-Don Jones Jr., Simon Marlow, Satnam Singh  
-*ACM SIGPLAN 2009 Haskell Symposium, Edinburgh*  
-Association for Computing Machinery, Inc., September 3, 2009
-
-**Runtime Support for Multicore Haskell**  
-Simon Marlow, Simon Peyton Jones, Satnam Singh  
-*International Conference on Functional Programming (ICFP) 2009*  
-Association for Computing Machinery, Inc., September 5, 2009
-
-**Finding heap-bounds for hardware synthesis**  
-Byron Cook, Ashutosh Gupta, Stephen Magill, Andrey Rybalchenko, Jiří Šimša, Satnam Singh, Viktor Vafeiadis  
-*Formal Methods in Computer Aided Design (FMCAD), Austin*, November 15, 2009
-
-## 2010
-
-**Designing Hardware with Dynamic Memory Abstraction**  
-Jiří Šimša, Satnam Singh  
-*ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*  
-Association for Computing Machinery, Inc., February 22, 2010
-
-**FPGA Circuit Synthesis of Accelerator Data-Parallel Programs**  
-Barry Bond, Kerry Hammil, Lubomir Litchev, Satnam Singh  
-*FPGAs for Custom Computing Machines*  
-IEEE Computer Society, May 3, 2010
-
-**Designing Application Specific Circuits with Concurrent C# Programs**  
-David Greaves, Satnam Singh  
-*Eighth ACM/IEEE Intl. Conference on Formal Methods and Models for Codesign*  
-IEEE, July 26, 2010
-
-## 2011
-
-**From Plasma to BeeFarm: Design Issues and Experience of an FPGA-based Multicore Prototype**  
-Oriol Arcas, Adrian Cristal, Ibrahim Hur, Satnam Singh, Nehir Somez  
-*7th International Symposium on Applied Reconfigurable Computing (ARC 2011)*  
-Springer Verlag, March 23, 2011
-
-**The RLOC is Dead -- Long Live the RLOC**  
-Satnam Singh  
-*ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*  
-ACM, February 27, 2011
-
-**TMbox: A Flexible and Reconfigurable 16-core Hybrid Transactional Memory System**  
-Oriol Arcas, Adrian Cristal, Ibrahim Hur, Otto Pflücker, Satnam Singh, Nehir Somez, Osman Unsal  
-*FPGAs for Custom Computing Machines 2011*  
-IEEE Computer Society, May 1, 2011
-
-**Reconfigurable Data Processing for Clouds**  
-Anil Madhavapeddy, Satnam Singh  
-*FPGAs for Custom Computing Machines 2011*, May 2, 2011
-
-**An Analysis of Programmer Productivity versus Performance for High Level Data Parallel Programming**  
-Alexander Cole, Alistair McEwan, Satnam Singh  
-*Communicating Processor Architectures*  
-Elsevier, June 19, 2011
-
-**Distributing C# Methods and Threads over Ethernet-connected FPGAs using Kiwi**  
-David Greaves, Satnam Singh  
-*Ninth ACM/IEEE International Conference on Formal Methods and Models for Codesign*  
-IEEE, July 11, 2011
-
-**Compiling Affine Recursion into Static Hardware**  
-Dan Ghica, Alex Smith, Satnam Singh  
-*The 16th ACM SIGPLAN International Conference on Functional Programming*  
-ACM, September 19, 2011
-
-**Computing Without Processors**  
-Satnam Singh  
-*Communications of the ACM*, August 2011
-
-## 2012
-
-**Accelerator Compiler for the VENICE Vector Processor**  
-Zhiduo Liu, Aaron Severance, Guy G.F. Lemieux, Satnam Singh  
-*FPGA 2012, Monterey*  
-ACM, 2012
-
-**Resource-bounded multicore emulation using Beefarm**  
-Oriol Arcas, Nehir Sonmez, Gokhan Sayilar, Satnam Singh, Osman S. Unsal, Adrian Cristal, Ibrahim Hur, Mateo Valero  
-*Journal of Microprocessors and Microsystems*, 2012
+**Lava and JBits: From HDL to Bitstream in Seconds** - Satnam Singh, Phil James-Roxby. *IEEE Symposium on FPGAs for Custom Computing Machines 2001*. Eds. K.L. Pocek and J.M. Arnold, IEEE Computer Society Press, 2001.
+
+**Rapid Construction of Partial Configuration Datastreams from High Level Constructs using JBits** - Satnam Singh, Phil James-Roxby. *Field-Programmable Logic and Applications*. Springer-Verlag LNCS, August 2001.
+
+**The Design and Verification of a Sorter Core** - Koen Claessen, Mary Sheeran, Satnam Singh. *CHARME'2001, Livingston, Scotland*. Springer-Verlag LNCS, September 2001.
+
+**The Lava HDL for FPGA Design** - Satnam Singh, Mary Sheeran. *HDLCON'2000, San Jose*, 2000.
+
+**Death of the RLOC?** - Satnam Singh. *FCCM'2000, Napa, California*. IEEE Computer Society Press, 2000.
+
+**Formal Verification of FPGA Cores** - Carl Johan Lillieroth, Satnam Singh. *Nordic Journal of Computing*, April 2000.
+
+**Checking safety properties using induction and a SAT-solver** - Mary Sheeran, Satnam Singh, Gunnar Stalmarck. *Formal Methods in Computer Aided Design (FMCAD), Austin*, November 2000.
+
+**Dynamic Specialisation of XC6200 FPGAs by Partial Evaluation** - Nicholas McKay, Satnam Singh. *FPL'98, Talin, Estonia*. Springer-Verlag LNCS 1706, 1999.
+
+**Formal Verification of FPGA Cores** - Carl Johan Lillieroth, Satnam Singh. *Nordic Journal of Computing*, 6:299-310, 1999.
+
+**Bezier Curve Rendering on Virtex™** - Donald MacVicar, Satnam Singh, Robert Slous. *FCCM'99, Napa, California*. IEEE Computer Society Press, 1999.
+
+**Rendering PostScript™ Fonts on FPGAs** - Donald MacVicar, Satnam Singh. *FPL'99, Glasgow, UK*. Springer-Verlag LNCS, 1999.
+
+**Debugging Techniques for Dynamically Reconfigurable Hardware** - Nicholas McKay, Satnam Singh. *FCCM'99, Napa, California*. IEEE Computer Society Press, 1999.
+
+**Photoshop Acceleration using Virtex** - Satnam Singh, Stefan Ludwig. *FPL'99, Glasgow, UK*. Springer-Verlag LNCS, 1999.
+
+**Formal Verification of Reconfigurable Cores** - Satnam Singh, Carl Johan Lillieroth. *FCCM'99, Napa, California*. IEEE Computer Society Press, 1999.
+
+**Accelerating Adobe Photoshop with Reconfigurable Logic** - Satnam Singh, Robert Slous. *FCCM'98, Napa, California*. IEEE Computer Society Press, 1998.
+
+**Applications of Run-Time Specialisation for FPGAs** - Nicholas McKay, Satnam Singh. *FCCM'98, Napa, California*. IEEE Computer Society Press, 1998.
+
+**Accelerating DTP with Reconfigurable Computing Engines** - Donald MacVicar, Satnam Singh. *FPL'98, Talin, Estonia*. Springer-Verlag, 1998.
+
+**Lava: Hardware Design in Haskell** - Per Bjesse, Koen Claessen, Mary Sheeran, Satnam Singh. *ICFP'98*. Springer-Verlag LNCS, 1998.
+
+**Partial Evaluation of Hardware** - Satnam Singh, Nicholas McKay. *Partial Evaluation Summer School 98, Copenhagen, Denmark*. Springer-Verlag LNCS, 1998.
+
+**Dynamic Specialisation of XC6200 FPGAs by Partial Evaluation** - Nicholas McKay, T. F. Melham, K.W. Susanto, Satnam Singh. *Proceedings of the IEEE Symposium on FPGAs for Custom Computing Machines*, 1998.
+
+**Formal Methods for Intellectual Property** - Carl Johan Block, Satnam Singh. *Nordic Formal Methods Workshop 98, Turku, Finland*, 1998.
+
+**A Dynamic Reconfiguration Run-Time System** - Jim Burns, Adam Donlin, Jonathan Hogg, Satnam Singh, Mark de Wit. *FCCM'97, Napa, California*. IEEE Computer Society Press, 1997.
+
+**New HDL Research Challenges posed by Dynamically Reprogrammable Hardware** - Jonathan Hogg, Satnam Singh, Mary Sheeran. *APCHDL'96, Bangalore*, January 1996.
+
+**Expressing Dynamic Reconfiguration by Partial Evaluation** - Satnam Singh, Jonathan Hogg, Derek McAuley. *FCCM'96, Napa, California*. IEEE Computer Society Press, 1996.
+
+**Architectural Descriptions for FPGAs** - Satnam Singh. *FCCM'95, Napa, California*. IEEE Computer Society Press, 1995.
+
+**Ruby as a basis for Hardware/Software Co-Design** - Mary Sheeran, Satnam Singh. *IEE Symposium on Hardware/Software Co-Design*. IEE, London, October 1995.
+
+**Virtual Hardware for Graphics Applications using FPGAs** - Satnam Singh, Pierre Bellec. *FCCM'94, Napa, California*. IEEE Computer Society Press, 1994.
+
+**Accelerating Graphics using FPGAs** - Satnam Singh, Pierre Bellec. *Canadian Workshop on Field-Programmable Devices, Kingston*. June 13-16, 1994.
+
+**Designing Graphical User Interfaces for Haskell** - Satnam Singh, Alastair Reid. *Glasgow Functional Programming Workshop, Ayr*. Springer-Verlag, 1993.
+
+**Hardware Synthesis Techniques for Algebraic HDLs** - Satnam Singh. *SASIMI'93, Nara, Japan*, 1993.
+
+**Circuit Analysis by Non-Standard Interpretation** - Satnam Singh. *Second IFIP WG10.2/WG10.5 Workshop on Designing Correct Circuits, Lyngby, Denmark*. North-Holland, 1992.
+
+**Circuit Layout using NSI** - Satnam Singh. *Advanced Research Workshop on Correct Hardware Design Methodologies, Turin*. North-Holland, 1991.
+
+**An X11/XView Interpreter for Miranda** - Satnam Singh. *Glasgow Functional Programming Workshop, Portree*. Springer-Verlag, 1991.
+
+**Analysis of Hardware Descriptions** - Satnam Singh. *PhD Thesis, University of Glasgow*, 1991.
+
+**Differentiating Strictness** - Satnam Singh. *Glasgow Functional Programming Workshop, Ullapool*. Springer-Verlag, 1990.
+
+**Implementation of a Non-Standard Interpretation System** - Satnam Singh. *Glasgow Functional Programming Workshop, Fraserburgh*. Springer-Verlag, 1989.
+
+**Application of Non-Standard Interpretation: Testability** - Satnam Singh. *Design of Correct VLSI Circuits. Proc. IFIP-IMEC Workshop, Belgium*. North Holland, 1989.
