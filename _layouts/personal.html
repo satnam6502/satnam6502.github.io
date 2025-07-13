@@ -75,6 +75,14 @@
 
       <section>
       {{ content }}
+
+      <h3>Posts</h3>
+      <p>
+        {% for post in site.posts %}
+            <a href="{{ post.url }}">{{ post.title }}</a><br>
+        {% endfor %}
+      </p>
+
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
