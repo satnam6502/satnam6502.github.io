@@ -1,3 +1,7 @@
-# Satnam's peronal GitHub pahes site.
+---
+layout: personal
+---
 
-This is the source for the [https://satnam6502.github.io](https://satnam6502.github.io) website, which is Satnam Singh's personal website.
+# Satnam Singh
+
+I'm an independent software engineer working at the intersection of programming languages, hardware desogn and formal methods.
