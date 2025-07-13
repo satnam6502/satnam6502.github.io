@@ -4,9 +4,7 @@ layout: personal
 
 # Satnam Singh
 
-Placeholder for Satnam Singh's GitHub pages page.
-Other sites:
+I'm an independent computer scientist working at the intersection of programming languages, hardware design and formal methods. You can find out more about my professional background from my [bio](bio). My personal site [raintown.org](https://raintown.org) is mostly about cooking, restaurants, whisky and wine, and travel.
 
-* Peronsal: [raintown.org](https://raintown.org)
-* Bio: [fpcastle.org/bio](https://fpcastle.org/bio)
+
 
