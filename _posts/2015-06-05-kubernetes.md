@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "2015-06-05. Cluster Management with Kubernetes [University of Edinburgh]"
+title: "2015-06-05. Cluster Management with Kubernetes"
 tags:
 author: satnam_singh
 ---

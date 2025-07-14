@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "2024-07-26. Accelerating Large Language Models with Groq's LPU Machine Learing Chips [University of Edinburgh]"
+title: "2024-07-26. Accelerating Large Language Models with Groq's LPU Machine Learing Chips"
 tags:
 author: satnam_singh
 ---
