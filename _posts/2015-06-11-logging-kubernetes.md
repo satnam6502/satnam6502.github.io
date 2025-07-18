@@ -2,7 +2,7 @@
 layout: personal
 title: "2015-06-11. Cluster Level Logging with Kubernetes"
 tags:
-author: satnam_singh
+  author: satnam_singh
 ---
 # Cluster Level Logging with Kubernetes
 
