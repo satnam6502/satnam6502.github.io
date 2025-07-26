@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "2024-03-13. Silver Oak: Building A High Assurance Silicon Root of Trust"
+title: "**13 March 2024.** Silver Oak: Building A High Assurance Silicon Root of Trust"
 tags:
   author: satnam_singh
 ---
