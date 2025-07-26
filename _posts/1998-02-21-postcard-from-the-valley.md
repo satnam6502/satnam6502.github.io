@@ -1,6 +1,6 @@
 ---
 layout: personal
-title:  "**21 February 1998**. Postcard From The Valley"
+title:  "21 February 1998. Postcard From The Valley"
 description: "A letter I wrote about my move to Silicon Valley in 1998"
 image: "images/googleplex.jpg"
 permalink: /valley-postcard/

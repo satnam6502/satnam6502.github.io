@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "**3 October 2021**. Advice for Whiteboard Coding Interviews"
+title: "3 October 2021. Advice for Whiteboard Coding Interviews"
 image: "/images/blackboard.jpg"
 tags:
   author: satnam_singh

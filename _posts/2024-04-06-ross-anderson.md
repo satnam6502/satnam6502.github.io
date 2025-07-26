@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "**6 April 2024.** Ross Anderson"
+title: "6 April 2024. Ross Anderson"
 description: "Ross Anderson"
 permalink: /ross_anderson/
 image: "/images/ross_anderson.jpg"

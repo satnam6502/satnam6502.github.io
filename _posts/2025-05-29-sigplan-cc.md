@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "**29 May 2025.** My SIGPLAN Current Continuation YouTube Interview"
+title: "29 May 2025. My SIGPLAN Current Continuation YouTube Interview"
 tags:
   author: satnam_singh
 ---
