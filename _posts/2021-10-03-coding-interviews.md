@@ -1,6 +1,7 @@
 ---
 layout: personal
 title: "Advice for Whiteboard Coding Interviews. 3 October 2021."
+description: "Advice for whiteboard coding interviews."
 permalink: /coding-interviews/
 image: "/images/blackboard.jpg"
 tags:
