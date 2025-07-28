@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "5 June 2015. Cluster Management with Kubernetes"
+title: "Cluster Management with Kubernetes. 5 June 2015"
 tags:
   author: satnam_singh
 ---

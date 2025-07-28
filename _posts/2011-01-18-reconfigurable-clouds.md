@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "18 January 2011. Reconfigurable Data Processing for Clouds"
+title: "Reconfigurable Data Processing for Clouds. 18 January 2011"
 tags:
   author: satnam_singh
 ---

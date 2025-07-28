@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "19 April 2011. Creating a Windows DLL from a Haskell Program and calling it from C++"
+title: "Creating a Windows DLL from a Haskell Program and calling it from C++. 19 April 2011"
 tags:
   author: satnam_singh
 ---

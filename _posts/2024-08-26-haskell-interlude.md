@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "26 August 2024. My Haskell Interlude Podcast Interview"
+title: "My Haskell Interlude Podcast Interview. 26 August 2024"
 tags:
   author: satnam_singh
 ---
