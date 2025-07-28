@@ -4,4 +4,4 @@ layout: personal
 
 # Satnam Singh
 
-I'm an independent software engineer working at the intersection of programming languages, hardware desogn and formal methods.
+I'm an independent software engineer working at the intersection of programming languages, hardware design and formal methods.
