@@ -63,7 +63,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Compiling Affine Recursion into Static Hardware** - Dan Ghica, Alex Smith, Satnam Singh. *The 16th ACM SIGPLAN International Conference on Functional Programming*. ACM, September 19, 2011.
 
-**Computing Without Processors** - Satnam Singh. *Communications of the ACM*, August 2011.
+**[Computing Without Processors](https://dl.acm.org/doi/pdf/10.1145/1978542.1978558)** - Satnam Singh. *Communications of the ACM*, August 2011.
 
 **Designing Hardware with Dynamic Memory Abstraction** - Jiří Šimša, Satnam Singh. *ACM/SIGA International Symposium on Field Programmable Gate Arrays (FPGA)*. Association for Computing Machinery, Inc., February 22, 2010.
 
