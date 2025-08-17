@@ -83,11 +83,11 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Parallel Performance Tuning for Haskell** - Don Jones Jr., Simon Marlow, Satnam Singh. *ACM SIGPLAN 2009 Haskell Symposium, Edinburgh*. Association for Computing Machinery, Inc., September 3, 2009.
 
-**Runtime Support for Multicore Haskell** - Simon Marlow, Simon Peyton Jones, Satnam Singh. *International Conference on Functional Programming (ICFP) 2009*. Association for Computing Machinery, Inc., September 5, 2009.
+**[Runtime Support for Multicore Haskell](https://www.eecs.northwestern.edu/~clk800/rand-test-study/_rsfmh/rsfmh-2009-10-8-12-02-00.pdf)** - Simon Marlow, Simon Peyton Jones, Satnam Singh. *International Conference on Functional Programming (ICFP) 2009*. Association for Computing Machinery, Inc., September 5, 2009.
 
 **Finding heap-bounds for hardware synthesis** - Byron Cook, Ashutosh Gupta, Stephen Magill, Andrey Rybalchenko, Jiří Šimša, Satnam Singh, Viktor Vafeiadis. *Formal Methods in Computer Aided Design (FMCAD), Austin*, November 15, 2009.
 
-**Kiwi: Synthesis of FPGA Circuits from Parallel Programs** - David Greaves, Satnam Singh. *IEEE Symposium on FPGAs for Custom Computing Machines (FCCM), Palo Alto*, April 2008.
+**[Kiwi: Synthesis of FPGA Circuits from Parallel Programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/04/kiwi_fccm2008.pdf)** - David Greaves, Satnam Singh. *IEEE Symposium on FPGAs for Custom Computing Machines (FCCM), Palo Alto*, April 2008.
 
 **A Deterministic Multi-Way Rendezvous Library for Haskell** - Stephen Edwards, Satnam Singh, Nalini Vasudevan. *IEEE International Parallel and Distributed Processing Symposium (IPDPS), Miami*, April 2008.
 
@@ -103,7 +103,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **New Parallel Programming Techniques for Hardware Design** - Satnam Singh. *WG 10.5 International Conference on Very Large Scale Integration, Atlanta, GA*. October 15-17, 2007.
 
-**Feedback Directed Implicit Parallelism** - Tim Harris, Satnam Singh. *International Conference on Functional Programming (ICFP) 2007, Freiburg*, October 2007.
+**[Feedback Directed Implicit Parallelism](https://www.cse.chalmers.se/edu/year/2014/course/pfp/Papers/FDIP.pdf)** - Tim Harris, Satnam Singh. *International Conference on Functional Programming (ICFP) 2007, Freiburg*, October 2007.
 
 **Lock Free Data Structures using STMs in Haskell** - Anthony Discolo, Tim Harris, Simon Marlow, Simon Peyton Jones, Satnam Singh. *Eighth International Symposium on Functional and Logic Programming, Fuji Susono, Japan*, April 2006.
 
@@ -111,7 +111,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Digital CAD Tools as Transactional Memory Workloads** - Satnam Singh. *Workshop on Transactional Memory Workloads*, June 2006.
 
-**An Asynchronous Messaging Library for C#** - Gerogio Chrysanthakopoulos, Satnam Singh. *Synchronization and Coordination in Object Orientated Languages. An OOPSLA workshop, San Diego*, October 2005.
+**[An Asynchronous Messaging Library for C#](https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemId=1906&itemFileId=2466)** - Gerogio Chrysanthakopoulos, Satnam Singh. *Synchronization and Coordination in Object Orientated Languages. An OOPSLA workshop, San Diego*, October 2005.
 
 **A Demonstration of Co-Design and Co-Verification in a Synchronous Language** - Satnam Singh. *Design, Automation and Test in Europe (DATE), Paris*, 2004.
 
@@ -145,7 +145,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Formal Verification of FPGA Cores** - Carl Johan Lillieroth, Satnam Singh. *Nordic Journal of Computing*, April 2000.
 
-**Checking safety properties using induction and a SAT-solver** - Mary Sheeran, Satnam Singh, Gunnar Stalmarck. *Formal Methods in Computer Aided Design (FMCAD), Austin*, November 2000.
+**[Checking safety properties using induction and a SAT-solver](https://www.researchgate.net/profile/Mary-Sheeran-2/publication/220884447_Checking_Safety_Properties_Using_Induction_and_a_SAT-Solver/links/02bfe5110f2e5a50f8000000/Checking-Safety-Properties-Using-Induction-and-a-SAT-Solver.pdf)** - Mary Sheeran, Satnam Singh, Gunnar Stalmarck. *Formal Methods in Computer Aided Design (FMCAD), Austin*, November 2000.
 
 **Dynamic Specialisation of XC6200 FPGAs by Partial Evaluation** - Nicholas McKay, Satnam Singh. *FPL'98, Talin, Estonia*. Springer-Verlag LNCS 1706, 1999.
 
@@ -167,7 +167,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Accelerating DTP with Reconfigurable Computing Engines** - Donald MacVicar, Satnam Singh. *FPL'98, Talin, Estonia*. Springer-Verlag, 1998.
 
-**Lava: Hardware Design in Haskell** - Per Bjesse, Koen Claessen, Mary Sheeran, Satnam Singh. *ICFP'98*. Springer-Verlag LNCS, 1998.
+**[Lava: Hardware Design in Haskell](https://dl.acm.org/doi/pdf/10.1145/291251.289440)** - Per Bjesse, Koen Claessen, Mary Sheeran, Satnam Singh. *ICFP'98*. Springer-Verlag LNCS, 1998.
 
 **Partial Evaluation of Hardware** - Satnam Singh, Nicholas McKay. *Partial Evaluation Summer School 98, Copenhagen, Denmark*. Springer-Verlag LNCS, 1998.
 
@@ -175,7 +175,7 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 
 **Formal Methods for Intellectual Property** - Carl Johan Block, Satnam Singh. *Nordic Formal Methods Workshop 98, Turku, Finland*, 1998.
 
-**A Dynamic Reconfiguration Run-Time System** - Jim Burns, Adam Donlin, Jonathan Hogg, Satnam Singh, Mark de Wit. *FCCM'97, Napa, California*. IEEE Computer Society Press, 1997.
+**[A Dynamic Reconfiguration Run-Time System](https://d1wqtxts1xzle7.cloudfront.net/81312778/fccm97-libre.pdf?1645658349=&response-content-disposition=inline%3B+filename%3DA_Dynamic_Reconfiguration_Run_Time_Syste.pdf&Expires=1755474388&Signature=RNzeWcYWKVBX18KHy-E33gDNDztUOzeSVAFaLk4x-2tP64yfpJFxWazevAK84i5vb86SdJLXUFzF2C3Tl1VbZvBjxqoJytY8T6nPHCkBk3Nu6hH1hca5usR2mDuYt5zDE~WpU11-i3--0Zs7v0lQNxknPQRFWpry84XMkVUsN-twdaBDt9kwPxb5-LmH1xgEaja7m4i0BwXdmFPSXYmOiKZYUwqcrVnBZOn6nzCM5zSu413iys~gLE6fMaWH3dJCnAQzPdqFFkC3ulImM~fbq07WJ~psEC2r2vGazTYuGhlI5Ri13Vjyl6RySyL4GVgaknREfv5sAXcesTMBn6x36g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)** - Jim Burns, Adam Donlin, Jonathan Hogg, Satnam Singh, Mark de Wit. *FCCM'97, Napa, California*. IEEE Computer Society Press, 1997.
 
 **New HDL Research Challenges posed by Dynamically Reprogrammable Hardware** - Jonathan Hogg, Satnam Singh, Mary Sheeran. *APCHDL'96, Bangalore*, January 1996.
 
