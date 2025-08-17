@@ -39,6 +39,10 @@ If you need a bio for a talk you can find some at [satnam6502.github.io/bio](htt
 | 1983 — 1987 | BSc (Hons) Computing Science<br>[University of Glasgow](https://www.gla.ac.uk/schools/computing/), UK
 | 1987 — 1990| PhD Computing Science<br>[University of Glasgow](https://www.gla.ac.uk/schools/computing/), UK
 
+
+![Kubernetes contributor card](/images/kubernetes-contrib.jpg)
+
+
 # Publications (81 in total)
 
 **Accelerator Compiler for the VENICE Vector Processor** - Zhiduo Liu, Aaron Severance, Guy G.F. Lemieux, Satnam Singh. *FPGA 2012, Monterey*. ACM, 2012.
