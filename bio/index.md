@@ -24,7 +24,7 @@ I have professional software development experience in several programming langu
 | 2019 — 2021 | Software Engineer, [Google Research](https://research.google/) (formerly Google AI)<br> Mountain View, California, USA<br>Also Lecturer at [UC Santa Cruz](https://engineering.ucsc.edu/), Jack Baskin School of Engineering
 | 2017 — 2019 | Software Engineer, [Google X](https://x.company/)<br> Mountain View, California, USA
 | 2015 — 2017 | Software Engineer, [Facebook](http://facebook.com)<br>Menlo Park, California, USA
-| 2012 — 2015 | Software Engineer, Google<br>Mountain View, California, USA
+| 2012 — 2015 | Software Engineer, [Google](https://research.google.com/intl/en/pubs/SatnamSingh.html)<br>Mountain View, California, USA
 | 2006 — 2011  | Researcher, [Microsoft Research](https://www.microsoft.com/en-us/research/)<br>Cambridge, UK<br>Also Professor of Reconfigurable Systems<br>[University of Birmingham](https://www.birmingham.ac.uk/schools/computer-science)<br>Visiting Lecturer<br>[Imperial College](https://www.imperial.ac.uk/), London
 | 2004 — 2006 | Principal Architect, [Microsoft](http://microsoft.com)<br>Redmond, Washington, USA<br>Also Affiliate faculty at EE [University of Washington](https://www.ece.uw.edu/) (2005)
 | 1998 — 2004 | Principal Engineer, [Xilinx](http://xilinx.com)<br>San Jose, California, USA
