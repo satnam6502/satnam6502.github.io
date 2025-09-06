@@ -14,7 +14,7 @@ My research interests include functional programming in Haskell, high level tech
 
 I am a Senior Member of the ACM and IEEE and a Fellow of the IET. I am also an elected member of [IFIP WG2.8](https://ifip-wg28.github.io/) (functional programming) and [IFIP WG2.11](https://wiki.hh.se/wg211/index.php/Main_Page) (program generation). I previously served as an elected member of ACM [SIGPLAN](https://www.sigplan.org/). I have held part-time or honorary positions at The University of Birmingham, Imperial College London, the University of Washington, and the University of Santa Cruz. I am currently a visiting academic at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/people/ss2072) at the University of Cambridge and the [Department of Computing Science](https://www.gla.ac.uk/schools/computing/staff/index.html/staffcontact/person/33dce9e38296) at the University of Glasgow.
 
-I have professional software development experience in several programming languages including C++, C#, F#, Go, Java, Python, Ada, Pascal, Haskell, BASIC, Rocq (Coq), VHDL, SystemVerilog, Perl and PROLOG. I have also programmed in Modula-2, Oberon, BCPL, C, Esterel, Agda, FORTH, FORTRAN, LISP and in serval assembly languages including 6502, 68000 and 32000.
+I have professional software development experience in several programming languages including C++, C#, F#, Go, Java, Python, Ada, Pascal, Haskell, BASIC, Rocq (Coq), VHDL, SystemVerilog, Perl and PROLOG. I have also programmed in Miranda, Modula-2, Oberon, BCPL, C, Esterel, ML, LazyML, Occam, Agda, FORTH, FORTRAN, LISP and in serval assembly languages including 6502, 68000 and 32000.
 
 ### Employment
 
