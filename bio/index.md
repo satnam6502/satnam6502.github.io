@@ -4,7 +4,7 @@ layout: bio
 
 # Satnam Singh
 
-I'm an independent software engineer working at the intersection of programming languages, hardware desogn and formal methods.
+I'm an independent software engineer working at the intersection of programming languages, hardware design and formal methods.
 
 Previously I was a computer scientist and hardware engineer working for the AI chip company [Groq](http://groq.com) in California that deploys LLMs (large language models) at scale with very low latency. There I worked on the design of hardware for the power management of machine learning inference chips, the formal verification of machine learning hardware, and the front-end components of a compiler for machine learning models (MLIR, ONNX, JAX, PyTorch, Tensorflow, StableHLO).
 
@@ -12,9 +12,9 @@ I previously worked at [Google](http://google.com) (machine learning chips, clus
 
 My research interests include functional programming in Haskell, high level techniques for hardware design ([Lava](https://lava.raintown.org), [Bluespec](https://bluespec.com/), DSLs in Haskell, Esterel, Coq, Agda and C#), formal methods (SAT-solvers, model checkers, theorem provers), formally verified hardware/software co-design, FPGAs, and concurrent and parallel programming. I was an early member of the [Kubernetes](https://kubernetes.io/) team at Google.
 
-I am a Senior Member of the ACM and IEEE and a Fellow of the IET. I am also an elected member of IFIP WG2.8 (functional programming) and IFIP WG2.11 (program generation). I previously served as an elected member of ACM [SIGPLAN](https://www.sigplan.org/). I have held part-time or honorary positions at The University of Birmingham, Imperial College London, the University of Washington, and the University of Santa Cruz (UCSC). I am currently a visiting academic at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/people/ss2072) at the University of Cambridge and the [Department of Computing Science](https://www.gla.ac.uk/schools/computing/staff/index.html/staffcontact/person/33dce9e38296) at the University of Glasgow.
+I am a Senior Member of the ACM and IEEE and a Fellow of the IET. I am also an elected member of IFIP WG2.8 (functional programming) and IFIP WG2.11 (program generation). I previously served as an elected member of ACM [SIGPLAN](https://www.sigplan.org/). I have held part-time or honorary positions at The University of Birmingham, Imperial College London, the University of Washington, and the University of Santa Cruz. I am currently a visiting academic at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/people/ss2072) at the University of Cambridge and the [Department of Computing Science](https://www.gla.ac.uk/schools/computing/staff/index.html/staffcontact/person/33dce9e38296) at the University of Glasgow.
 
-I have professional software development experience in several programming languages including C++, Go, Java, Python, Ada, Haskell, VHDL, SystemVerilog, and PROLOG. I've also programmed in Pascal, Modula-2, Oberon, BCPL, C, FORTH and LISP.
+I have professional software development experience in several programming languages including C++, Go, Java, Python, Ada, Pascal, Haskell, VHDL, SystemVerilog, Perl and PROLOG. I've also programmed in Modula-2, Oberon, BCPL, C, Esterel, FORTH, FORTRAN, LISP and in serval assembly languages including 6502, 68000 and 32000.
 
 ### Employment
 
