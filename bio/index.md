@@ -10,9 +10,11 @@ Previously I was a computer scientist and hardware engineer working for the AI c
 
 I previously worked at [Google](http://google.com) (machine learning chips, cluster management), [Facebook](http://facebook) (Android optimization), [Microsoft](http://microsoft.com) (parallel and concurrent programming) and [Xilinx](http://xilinx.com) ([Lava](https://lava.raintown.org) DSL for hardware design, formal verification of hardware). I started my career as an academic at the [University of Glasgow](https://www.gla.ac.uk/schools/computing/) (FPGA-based application acceleration and functional programming, software-defined radio).
 
-My research interests include functional programming in Haskell, high level techniques for hardware design ([Lava](https://lava.raintown.org), [Bluespec](https://bluespec.com/), DSLs in Haskell, Esterel, Coq and C#), formal methods (SAT-solvers, model checkers, theorem provers), formally verified hardware/software co-design, FPGAs, and concurrent and parallel programming. I was an early member of the [Kubernetes](https://kubernetes.io/) team at Google.
+My research interests include functional programming in Haskell, high level techniques for hardware design ([Lava](https://lava.raintown.org), [Bluespec](https://bluespec.com/), DSLs in Haskell, Esterel, Coq, Agda and C#), formal methods (SAT-solvers, model checkers, theorem provers), formally verified hardware/software co-design, FPGAs, and concurrent and parallel programming. I was an early member of the [Kubernetes](https://kubernetes.io/) team at Google.
 
 I am a Senior Member of the ACM and IEEE and a Fellow of the IET. I am also an elected member of IFIP WG2.8 (functional programming) and IFIP WG2.11 (program generation). I previously served as an elected member of ACM [SIGPLAN](https://www.sigplan.org/). I have held part-time or honorary positions at The University of Birmingham, Imperial College London, the University of Washington, and the University of Santa Cruz (UCSC). I am currently a visiting academic at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/people/ss2072) at the University of Cambridge and the [Department of Computing Science](https://www.gla.ac.uk/schools/computing/staff/index.html/staffcontact/person/33dce9e38296) at the University of Glasgow.
+
+I have professional software development experience in several programming languages including C++, Go, Java, Python, Haskell, VHDL and SystemVerilog.
 
 ### Employment
 
