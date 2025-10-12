@@ -4,7 +4,7 @@ layout: bio
 
 # Satnam Singh
 
-I'm currently an independent software engineer working at the intersection of programming languages, hardware design and formal methods. In November 2025 I will join a startup called Harmonic[https://harmonic.fun] to apply Lean-based formal verification to computer hardware.
+I'm currently an independent software engineer working at the intersection of programming languages, hardware design and formal methods. In November 2025 I will join a startup called [Harmonic](https://harmonic.fun) to apply Lean-based formal verification to computer hardware.
 
 Previously I was a computer scientist and hardware engineer working for the AI chip company [Groq](http://groq.com) in California that deploys LLMs (large language models) at scale with very low latency. There I worked on the design of hardware for the power management of machine learning inference chips, the formal verification of machine learning hardware, and the front-end components of a compiler for machine learning models.
 
