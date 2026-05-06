@@ -5,4 +5,4 @@ tags:
   author: satnam_singh
 ---
 # PDF of slides for my talk at Imperial College London: Formally Verifying Hardware with Aristotle, Harmonic's AI Theorem Prover
-These are the [slides](2026-05-05_Formally_Verifying_Hardware_with_Aristotle.pdf) I used for my talk, although they may not make a lot of sense without my narration.
+These are the [slides](https://docs.google.com/presentation/d/1buyEezQjAQSGL7WxG7SMT1bZLumardRE8smNpIE5oAc/edit?usp=sharing) I used for my talk, although they may not make a lot of sense without my narration.
