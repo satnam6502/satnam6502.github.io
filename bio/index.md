@@ -20,7 +20,7 @@ I have professional software development experience in several programming langu
 
 | Employer | Role and Location |
 |----------|----------|
-| 2026 — present | Software Engineer, [Harmonic](https://harmonic.fun)<br>Palo Alto, California, USA
+| 2025&nbsp;—&nbsp;present | Software Engineer, [Harmonic](https://harmonic.fun)<br>Palo Alto, California, USA
 | 2021 — 2025 | Fellow, [Groq](http://groq.com)<br> Mountain View, California
 | 2019 — 2021 | Software Engineer, [Google Research](https://research.google/) (formerly Google AI)<br> Mountain View, California, USA<br>Also Lecturer at [UC Santa Cruz](https://engineering.ucsc.edu/), Jack Baskin School of Engineering
 | 2017 — 2019 | Software Engineer, [Google X](https://x.company/)<br> Mountain View, California, USA
