@@ -19,17 +19,17 @@
 {% if page.description %}
   <meta name="twitter:description"
     content="{{ page.description }}">
-{% else %}
+{%- else %}
   <meta name="twitter:description"
     content="{{ page.content | strip_html | xml_escape
       | truncate: 200 }}">
-{% endif %}
+{%- endif %}
 
 {% if page.image %}
 <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
-{% else %}
+{%- else %}
 <meta name="twitter:image" content="{{ site.logo | absolute_url }}" />
-{% endif %}
+{%- endif %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FE5ZKRP2XF"></script>
@@ -48,13 +48,17 @@
         
         <img src="/images/mad_scientist_small.jpg" alt="Satnam Singh" />
 
-	<p>Personal: <a href = "https://raintown.org">https://raintown.org</a></br>
-     Personal: <a href = "mailto: satnam@raintown.org">satnam@raintown.org</a></br>
-     Personal: <a href = "mailto: satnam6502@gmail.com">satnam6502@gmail.com</a></br>
-     Professional: <a href = "mailto: s.singh@acm.org">s.singh@acm.org</a></br>
-     Professional: <a href = "mailto: s.singh@ieee.org">s.singh@ieee.org</a></br>
-     Bio: <a href = "https://satnam6502.github.io/bio">https://satnam6502.github.io/bio</a><br>
-     FP Castle: <a href = "https://fpcastle.com">https://fpcastle.com</a></br>
+	<p>Personal: <a href="https://raintown.org">https://raintown.org</a><br>
+     Personal: <a href="mailto:satnam@raintown.org">satnam@raintown.org</a><br>
+     Personal: <a href="mailto:satnam6502@gmail.com">satnam6502@gmail.com</a><br>
+     Professional: <a href="mailto:s.singh@acm.org">s.singh@acm.org</a><br>
+     Professional: <a href="mailto:s.singh@ieee.org">s.singh@ieee.org</a><br>
+{%- if page.url == "/bio/" %}
+     Website: <a href="https://satnam6502.github.io">https://satnam6502.github.io</a><br>
+{%- else %}
+     Bio: <a href="https://satnam6502.github.io/bio">https://satnam6502.github.io/bio</a><br>
+{%- endif %}
+     FP Castle: <a href="https://fpcastle.com">https://fpcastle.com</a><br>
         </p>
 
         <p> 

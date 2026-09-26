@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: personal
 ---
 
 # Satnam Singh
