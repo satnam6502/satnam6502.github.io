@@ -1,6 +1,3 @@
-SERVER=satnam@oban.raintown.org
-HR=raintow@ssh.raintown.org
-
 .PHONY: build serve
 
 build:	
@@ -8,12 +5,3 @@ build:
 
 serve:
 	bundler exec jekyll serve --watch 	
-
-push:	build
-		scp -r _site/* $(SERVER):public_html
-
-rpush:	build
-	scp -r _site/* satnam@oban.raintown.org:public_html
-
-hrpush:	build
-		scp -r _site/* $(HR):public_html
