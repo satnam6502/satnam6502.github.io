@@ -158,4 +158,4 @@ Some instances of these butterfly networks were implemented on a XCV300 FPGA and
 
 <p align="center"> <img src="chipscope_bfly.jpg"></p>
 
-Next section: [A 1D Systolic Finite Impulse Response Filter](fir)
+Next section: [A 1D Systolic Finite Impulse Response Filter](../fir)

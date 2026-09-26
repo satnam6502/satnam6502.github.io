@@ -7,13 +7,13 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/png" href="flag.jpg">
+    <link rel="shortcut icon" type="image/png" href="/images/icon.jpg">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://raintown.org/castle.jpg">
+<meta name="twitter:image" content="{{ site.logo | absolute_url }}">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FE5ZKRP2XF"></script>
@@ -41,7 +41,7 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        <p>Satnam Singh's webpage: <a href="http://satnam.raintown.org">satnam.raintown.org</a>
+        <p>Satnam Singh's webpage: <a href="https://satnam6502.github.io">satnam6502.github.io</a>
         </p>
 
         {% if site.show_downloads %}
