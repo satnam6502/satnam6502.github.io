@@ -15,14 +15,16 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://fpcastle.com/castle.jpg">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FE5ZKRP2XF"></script>
+<!-- Google Analytics (gtag.js) -->
+{%- if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-FE5ZKRP2XF');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
+{%- endif %}
 
   </head>
   <body>
