@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "Logging Kubernetes Pods using Fluentd and Elasticsearch. 18 November 2014"
+title: "Logging Kubernetes Pods using Fluentd and Elasticsearch"
 tags:
   author: satnam_singh
 ---

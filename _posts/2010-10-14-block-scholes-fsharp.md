@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "F# Black-Scholes running on GPUs and SSE3 Multicore Processors using Accelerator. 14 October 2010"
+title: "F# Black-Scholes running on GPUs and SSE3 Multicore Processors using Accelerator"
 tags:
   author: satnam_singh
 ---

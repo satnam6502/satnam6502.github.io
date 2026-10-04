@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "Obiturary for Ross Anderson. 6 April 2024"
+title: "Obiturary for Ross Anderson"
 description: "Ross Anderson"
 permalink: /ross_anderson/
 image: "/images/ross_anderson.jpg"
