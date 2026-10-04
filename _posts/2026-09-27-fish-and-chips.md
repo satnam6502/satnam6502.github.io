@@ -9,8 +9,6 @@ tags:
 ---
 # Fish and Chips: Functional Geometry and FPGA Circuit Layout
 
-The Lean 4 code for this post is at [satnam6502/escher-fish](https://github.com/satnam6502/escher-fish).
-
 I love [Escher's fish](https://en.wikipedia.org/wiki/Sky_and_Water_I), and I especially love [Peter Henderson](https://www.linkedin.com/in/peter-henderson-98a48742/)'s rendering of Escher's fish, which has inspired much of the work I have done on algebraic specification of circuit layout, building on the original work on [Ruby](https://www.cs.ox.ac.uk/people/geraint.jones/ruby/) for circuit design and layout by [Mary Sheeran](https://www.cse.chalmers.se/~ms/) and [Geraint Jones](https://www.cs.ox.ac.uk/people/geraint.jones/).
 
 Here we have Escher's *Square Limit*, drawn in Lean 4 using the algebra of pictures from the 2002 update of Peter
@@ -180,3 +178,5 @@ rational amounts, and the fish's control points and the initial box are rational
 every coordinate stays rational. Applying `rot45` twice gives a quarter turn at half
 the size, shifted into the box above. That too holds exactly, as
 `above_blank_rot45_rot45` shows.
+
+The Lean 4 code for this post is at [satnam6502/escher-fish](https://github.com/satnam6502/escher-fish).

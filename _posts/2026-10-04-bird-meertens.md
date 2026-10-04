@@ -9,8 +9,6 @@ tags:
 ---
 # Formally deriving programs from specifications using Lean 4 in the Bird-Meertens style
 
-The Lean 4 code for this post is in [satnam6502/bird-meertens](https://github.com/satnam6502/bird-meertens), in the [`kadane`](https://github.com/satnam6502/bird-meertens/tree/main/kadane) directory.
-
 This page describes the systematic derivation of an efficient algorithm from an obviously correct but inefficient specification using formally verified transformations, as illustrated in the code below (from [`Kadane.lean`](https://github.com/satnam6502/bird-meertens/blob/main/kadane/Kadane.lean)). With the recent advances in AI coding agents and the automation of proofs using AI theorem provers, this inspiring idea from the 1980s deserves another look.
 
 ![The Lean theorem mss_eq_kadane: a calc block that rewrites the O(n³) specification maxL ∘ map sum ∘ segs, one named law per line, into Kadane's O(n) algorithm Prod.fst ∘ foldl (· ⊗ ·) (0, 0).](/images/kadane.png)
