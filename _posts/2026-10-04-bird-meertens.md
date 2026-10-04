@@ -11,11 +11,11 @@ tags:
 
 The Lean 4 code for this post is in [satnam6502/bird-meertens](https://github.com/satnam6502/bird-meertens), in the [`kadane`](https://github.com/satnam6502/bird-meertens/tree/main/kadane) directory.
 
-This page describes the systematic derivation of an efficient algorithm from an obviously correct but inefficient specification using formally verified transformations, as illustrated in the code below (from [`Kadane.lean`](https://github.com/satnam6502/bird-meertens/blob/main/kadane/Kadane.lean)).
+This page describes the systematic derivation of an efficient algorithm from an obviously correct but inefficient specification using formally verified transformations, as illustrated in the code below (from [`Kadane.lean`](https://github.com/satnam6502/bird-meertens/blob/main/kadane/Kadane.lean)). With the recent advances in AI coding agents and the automation of proofs using AI theorem provers, this inspiring idea from the 1980s deserves another look.
 
 ![The Lean theorem mss_eq_kadane: a calc block that rewrites the O(n³) specification maxL ∘ map sum ∘ segs, one named law per line, into Kadane's O(n) algorithm Prod.fst ∘ foldl (· ⊗ ·) (0, 0).](/images/kadane.png)
 
-Give me a list of integers and ask for the contiguous segment with the largest
+The problem: give me a list of integers and ask for the contiguous segment with the largest
 sum, and the obvious thing to do is to try every segment, add each one up, and
 keep the biggest. For `[-2, 1, -3, 4, -1, 2, 1, -5, 4]` the winner is
 `[4, -1, 2, 1]`, which sums to 6. This brute force approach is easy to believe
@@ -133,11 +133,17 @@ This writes every measurement to
 [`bench/kadane_timings.csv`](https://github.com/satnam6502/bird-meertens/blob/main/kadane/bench/kadane_timings.csv) and redraws both SVG
 plots (a light one and a dark one, picked to match your GitHub theme).
 
-## What You Have to Trust
+## AI Coding and AI Proofs
 
-Both `mss_eq_kadane` and `lines_eq_mss` depend only on Lean's standard axioms
-`propext` and `Quot.sound`. Bird's example and the all-negative case are
-checked by `decide` at the bottom of [`Kadane.lean`](https://github.com/satnam6502/bird-meertens/blob/main/kadane/Kadane.lean).
+This approach of deriving programs from specifications was a great idea from the 1980s which was perhaps ahead of its time but I think has now found relevance in the age of AI coding. Specifically, AI coding agents and AI theorem provers can now work to synthesize and optimize code from specifications or draft implementations into efficient and correct by construction code (the guarantee comes from the checked proofs, not from the agent).
+
+Previously the level of skill required and the laborious details needed to perform the proofs for practical programs made this approach difficult to apply. Now AI coding and automatic AI theorem proving advances mean we should look again at this approach for synthesizing code in a manner that still retains some form of comprehension for humans, given by the stepwise refinement steps which act as a kind of explanation of how code has been transformed and synthesized.
+
+## Finding out more and some other related work
+
+The GitHub repo [Algebra of Programming in Agda: Dependent Types for Relational Program Derivation](https://github.com/scmu/aopa) contains an Agda implementation of a library inspired by the [Algebra of Programming](https://www.amazon.com/Algebra-Programming-Prentice-Hall-International-Computer/dp/013507245X) as described in a book by Richard Bird and Oege de Moor (Oege is now famous for GitHub Copilot and XBOW).
+
+[Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) has written an article about [The School of Squiggol: A History of the Bird−Meertens Formalism](https://www.cs.ox.ac.uk/publications/publication13852-abstract.html).
 
 ## Building
 
