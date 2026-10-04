@@ -1,6 +1,7 @@
 ---
 layout: personal
 title: "Fish and Chips: Functional Geometry and FPGA Circuit Layout"
+description: "Escher's Square Limit drawn in Lean 4 with Peter Henderson's Functional Geometry, and how the same kind of layout combinators describe FPGA circuit layouts."
 tags:
   author: satnam_singh
 ---
@@ -47,6 +48,8 @@ def BFLY (r : Rel (List.Vector α 2) (List.Vector α 2)) :
     have h : 2 ^ (n + 2) = 2 * 2 ^ (n + 1) := by ring
     h ▸ (ILV (BFLY r n) ⨾ EVENS r)
 ```
+
+Here `ILV` (interleave), `EVENS` and series composition `⨾` are Ruby combinators over relations (`Rel`), described in the Ruby papers listed below.
 
 ## Running
 
