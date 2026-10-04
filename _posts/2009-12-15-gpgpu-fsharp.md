@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "GPGPU and x64 Multicore Programming with Accelerator from F#. 15 December 2009"
+title: "GPGPU and x64 Multicore Programming with Accelerator from F#"
 tags:
   author: satnam_singh
 ---

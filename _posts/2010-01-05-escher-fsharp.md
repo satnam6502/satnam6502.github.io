@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "An F# Functional Geometry Description of Escher's Fish. 5 January 2010"
+title: "An F# Functional Geometry Description of Escher's Fish"
 tags:
   author: satnam_singh
 ---

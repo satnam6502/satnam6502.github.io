@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "A C# implementation of a convolver using Accelerator for GPGPU and multicore targets using LINQ operators. 11 January 2010"
+title: "A C# implementation of a convolver using Accelerator for GPGPU and multicore targets using LINQ operators"
 tags:
   author: satnam_singh
 ---

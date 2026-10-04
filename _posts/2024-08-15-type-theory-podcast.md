@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: "My Type Theory for All Podcast Interview. 15 August 2024"
+title: "My Type Theory for All Podcast Interview"
 tags:
   author: satnam_singh
 ---
