@@ -10,7 +10,7 @@
     <link rel="shortcut icon" type="image/png" href="/images/icon.jpg">
     <style>
       .posts { display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 1em; }
-      .posts dt { font-variant-numeric: tabular-nums; }
+      .posts dt { font-weight: bold; font-variant-numeric: tabular-nums; }
       .posts dd { margin: 0; overflow-wrap: anywhere; }
     </style>
     <!--[if lt IE 9]>
@@ -99,7 +99,7 @@
       <h3>Posts</h3>
       <dl class="posts">
         {% for post in site.posts %}
-            <dt>{{ post.date | date: "%Y-%m-%d" }}</dt>
+            <dt><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time></dt>
             <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
         {% endfor %}
       </dl>
