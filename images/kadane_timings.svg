@@ -1,0 +1,263 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="874" viewBox="0 0 960 874" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="title desc">
+<title id="title">Running time of each line of the Kadane derivation</title>
+<desc id="desc">Log–log plot of time per call against list length. The five O(n³) lines rise with slope 3, Horner's rule with slope 2, and the last two lines with slope 1.</desc>
+<rect width="100%" height="100%" fill="#fcfcfb"/>
+<text x="24.0" y="36.0" font-size="18" fill="#0b0b0b" font-weight="600">Running time of each line of the Kadane derivation</text>
+<text x="24.0" y="60.0" font-size="13" fill="#52514e" >Both axes are logarithmic, so the slope of a line is the exponent of its cost. Colour is the complexity class.</text>
+<text x="88.0" y="88.0" font-size="12" fill="#898781" >Time per call</text>
+<line x1="88.0" x2="856.0" y1="504.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="508.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">10 ns</text>
+<line x1="88.0" x2="856.0" y1="454.0" y2="454.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="458.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">100 ns</text>
+<line x1="88.0" x2="856.0" y1="404.0" y2="404.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="408.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">1 µs</text>
+<line x1="88.0" x2="856.0" y1="354.0" y2="354.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="358.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">10 µs</text>
+<line x1="88.0" x2="856.0" y1="304.0" y2="304.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="308.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">100 µs</text>
+<line x1="88.0" x2="856.0" y1="254.0" y2="254.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="258.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">1 ms</text>
+<line x1="88.0" x2="856.0" y1="204.0" y2="204.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="208.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">10 ms</text>
+<line x1="88.0" x2="856.0" y1="154.0" y2="154.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="158.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">100 ms</text>
+<line x1="88.0" x2="856.0" y1="104.0" y2="104.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="78.0" y="108.0" font-size="12" fill="#898781" text-anchor="end" font-variant-numeric="tabular-nums">1 s</text>
+<line x1="115.8" x2="115.8" y1="104.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="115.8" y="526.0" font-size="12" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">10</text>
+<line x1="293.0" x2="293.0" y1="104.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="293.0" y="526.0" font-size="12" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">100</text>
+<line x1="470.2" x2="470.2" y1="104.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="470.2" y="526.0" font-size="12" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">1,000</text>
+<line x1="647.4" x2="647.4" y1="104.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="647.4" y="526.0" font-size="12" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">10,000</text>
+<line x1="824.5" x2="824.5" y1="104.0" y2="504.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="824.5" y="526.0" font-size="12" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">100,000</text>
+<line x1="88.0" x2="856.0" y1="504.0" y2="504.0" stroke="#c3c2b7" stroke-width="1" shape-rendering="crispEdges"/>
+<text x="472.0" y="552.0" font-size="12" fill="#898781" text-anchor="middle">List length n</text>
+<polyline points="98.6,376.8 123.1,363.8 152.0,345.8 179.9,329.0 205.3,311.8 231.5,292.5 258.6,273.0 285.7,252.2 312.0,231.2 338.6,206.5 365.3,180.6 392.0,156.0 418.7,132.3 445.3,108.7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="98.6" cy="376.8" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 8, 3.50 µs</title></circle>
+<circle cx="123.1" cy="363.8" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 11, 6.37 µs</title></circle>
+<circle cx="152.0" cy="345.8" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 16, 14.6 µs</title></circle>
+<circle cx="179.9" cy="329.0" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 23, 31.6 µs</title></circle>
+<circle cx="205.3" cy="311.8" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 32, 69.9 µs</title></circle>
+<circle cx="231.5" cy="292.5" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 45, 170 µs</title></circle>
+<circle cx="258.6" cy="273.0" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 64, 417 µs</title></circle>
+<circle cx="285.7" cy="252.2" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 91, 1.09 ms</title></circle>
+<circle cx="312.0" cy="231.2" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 128, 2.86 ms</title></circle>
+<circle cx="338.6" cy="206.5" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 181, 8.92 ms</title></circle>
+<circle cx="365.3" cy="180.6" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 256, 29.4 ms</title></circle>
+<circle cx="392.0" cy="156.0" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 362, 91.2 ms</title></circle>
+<circle cx="418.7" cy="132.3" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 512, 271 ms</title></circle>
+<circle cx="445.3" cy="108.7" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>1. specification: n = 724, 807 ms</title></circle>
+<polyline points="98.6,376.8 123.1,363.8 152.0,345.8 179.9,329.0 205.3,311.9 231.5,292.5 258.6,273.0 285.7,252.1 312.0,231.2 338.6,206.4 365.3,180.6 392.0,156.0 418.7,132.4 445.3,108.7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="94.7" y="372.9" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 8, 3.50 µs</title></rect>
+<rect x="119.2" y="359.9" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 11, 6.38 µs</title></rect>
+<rect x="148.1" y="341.9" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 16, 14.6 µs</title></rect>
+<rect x="176.0" y="325.1" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 23, 31.7 µs</title></rect>
+<rect x="201.4" y="308.0" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 32, 69.5 µs</title></rect>
+<rect x="227.6" y="288.6" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 45, 170 µs</title></rect>
+<rect x="254.7" y="269.1" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 64, 417 µs</title></rect>
+<rect x="281.8" y="248.2" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 91, 1.09 ms</title></rect>
+<rect x="308.1" y="227.3" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 128, 2.86 ms</title></rect>
+<rect x="334.7" y="202.5" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 181, 8.94 ms</title></rect>
+<rect x="361.4" y="176.7" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 256, 29.4 ms</title></rect>
+<rect x="388.1" y="152.1" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 362, 91.3 ms</title></rect>
+<rect x="414.8" y="128.5" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 512, 270 ms</title></rect>
+<rect x="441.4" y="104.8" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>2. definition of segs: n = 724, 807 ms</title></rect>
+<polyline points="98.6,376.5 123.1,363.5 152.0,346.3 179.9,329.4 205.3,312.2 231.5,292.7 258.6,272.6 285.7,251.9 312.0,230.9 338.6,207.1 365.3,180.9 392.0,156.3 418.7,132.6 445.3,108.8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="98.6,371.1 93.9,379.2 103.4,379.2" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 8, 3.56 µs</title></polygon>
+<polygon points="123.1,358.1 118.4,366.2 127.9,366.2" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 11, 6.47 µs</title></polygon>
+<polygon points="152.0,340.9 147.2,349.0 156.7,349.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 16, 14.2 µs</title></polygon>
+<polygon points="179.9,324.0 175.2,332.1 184.6,332.1" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 23, 31.0 µs</title></polygon>
+<polygon points="205.3,306.8 200.6,314.9 210.0,314.9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 32, 68.6 µs</title></polygon>
+<polygon points="231.5,287.3 226.8,295.4 236.3,295.4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 45, 168 µs</title></polygon>
+<polygon points="258.6,267.2 253.9,275.3 263.4,275.3" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 64, 424 µs</title></polygon>
+<polygon points="285.7,246.5 281.0,254.6 290.5,254.6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 91, 1.10 ms</title></polygon>
+<polygon points="312.0,225.5 307.3,233.6 316.7,233.6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 128, 2.89 ms</title></polygon>
+<polygon points="338.6,201.7 333.9,209.8 343.4,209.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 181, 8.67 ms</title></polygon>
+<polygon points="365.3,175.5 360.6,183.6 370.0,183.6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 256, 29.0 ms</title></polygon>
+<polygon points="392.0,150.9 387.3,159.0 396.7,159.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 362, 89.8 ms</title></polygon>
+<polygon points="418.7,127.2 413.9,135.3 423.4,135.3" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 512, 268 ms</title></polygon>
+<polygon points="445.3,103.4 440.6,111.5 450.0,111.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>3. map promotion: n = 724, 803 ms</title></polygon>
+<polyline points="98.6,378.5 123.1,365.7 152.0,348.5 179.9,331.6 205.3,314.1 231.5,294.4 258.6,274.0 285.7,253.0 312.0,232.0 338.6,207.4 365.3,181.3 392.0,156.6 418.7,132.8 445.3,108.9" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="98.6,372.9 104.3,378.5 98.6,384.2 93.0,378.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 8, 3.23 µs</title></polygon>
+<polygon points="123.1,360.1 128.8,365.7 123.1,371.3 117.5,365.7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 11, 5.83 µs</title></polygon>
+<polygon points="152.0,342.9 157.6,348.5 152.0,354.2 146.3,348.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 16, 12.9 µs</title></polygon>
+<polygon points="179.9,326.0 185.5,331.6 179.9,337.3 174.3,331.6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 23, 28.0 µs</title></polygon>
+<polygon points="205.3,308.5 210.9,314.1 205.3,319.7 199.7,314.1" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 32, 62.9 µs</title></polygon>
+<polygon points="231.5,288.7 237.2,294.4 231.5,300.0 225.9,294.4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 45, 156 µs</title></polygon>
+<polygon points="258.6,268.4 264.3,274.0 258.6,279.6 253.0,274.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 64, 398 µs</title></polygon>
+<polygon points="285.7,247.4 291.4,253.0 285.7,258.7 280.1,253.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 91, 1.05 ms</title></polygon>
+<polygon points="312.0,226.4 317.6,232.0 312.0,237.6 306.4,232.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 128, 2.76 ms</title></polygon>
+<polygon points="338.6,201.8 344.3,207.4 338.6,213.1 333.0,207.4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 181, 8.53 ms</title></polygon>
+<polygon points="365.3,175.7 370.9,181.3 365.3,186.9 359.7,181.3" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 256, 28.4 ms</title></polygon>
+<polygon points="392.0,151.0 397.6,156.6 392.0,162.2 386.4,156.6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 362, 88.8 ms</title></polygon>
+<polygon points="418.7,127.2 424.3,132.8 418.7,138.4 413.0,132.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 512, 266 ms</title></polygon>
+<polygon points="445.3,103.2 450.9,108.9 445.3,114.5 439.7,108.9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>4. fold promotion: n = 724, 799 ms</title></polygon>
+<polyline points="98.6,378.7 123.1,365.8 152.0,349.2 179.9,331.6 205.3,314.1 231.5,294.6 258.6,274.7 285.7,253.5 312.0,232.2 338.6,207.7 365.3,181.6 392.0,156.8 418.7,132.8 445.3,109.0" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="98.6,384.1 93.9,376.0 103.4,376.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 8, 3.21 µs</title></polygon>
+<polygon points="123.1,371.2 118.4,363.1 127.9,363.1" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 11, 5.81 µs</title></polygon>
+<polygon points="152.0,354.6 147.2,346.5 156.7,346.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 16, 12.4 µs</title></polygon>
+<polygon points="179.9,337.0 175.2,328.9 184.6,328.9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 23, 28.1 µs</title></polygon>
+<polygon points="205.3,319.5 200.6,311.4 210.0,311.4" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 32, 62.9 µs</title></polygon>
+<polygon points="231.5,300.0 226.8,291.9 236.3,291.9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 45, 154 µs</title></polygon>
+<polygon points="258.6,280.1 253.9,272.0 263.4,272.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 64, 385 µs</title></polygon>
+<polygon points="285.7,258.9 281.0,250.8 290.5,250.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 91, 1.02 ms</title></polygon>
+<polygon points="312.0,237.6 307.3,229.5 316.7,229.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 128, 2.73 ms</title></polygon>
+<polygon points="338.6,213.1 333.9,205.0 343.4,205.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 181, 8.44 ms</title></polygon>
+<polygon points="365.3,187.0 360.6,178.9 370.0,178.9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 256, 28.1 ms</title></polygon>
+<polygon points="392.0,162.2 387.3,154.1 396.7,154.1" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 362, 87.9 ms</title></polygon>
+<polygon points="418.7,138.2 413.9,130.1 423.4,130.1" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 512, 265 ms</title></polygon>
+<polygon points="445.3,114.4 440.6,106.3 450.0,106.3" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>5. map distributivity: n = 724, 796 ms</title></polygon>
+<polyline points="98.6,412.7 123.1,401.9 152.0,387.5 179.9,371.1 205.3,357.3 231.5,340.9 258.6,325.8 285.7,310.0 312.0,295.0 338.6,279.9 365.3,264.3 392.0,243.9 418.7,227.5 445.3,212.7 472.0,199.4 498.7,184.8 525.3,169.6 552.0,154.9 578.7,139.2 605.4,114.7" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="98.6" cy="412.7" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 8, 668 ns</title></circle>
+<circle cx="123.1" cy="401.9" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 11, 1.10 µs</title></circle>
+<circle cx="152.0" cy="387.5" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 16, 2.13 µs</title></circle>
+<circle cx="179.9" cy="371.1" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 23, 4.56 µs</title></circle>
+<circle cx="205.3" cy="357.3" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 32, 8.58 µs</title></circle>
+<circle cx="231.5" cy="340.9" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 45, 18.2 µs</title></circle>
+<circle cx="258.6" cy="325.8" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 64, 36.7 µs</title></circle>
+<circle cx="285.7" cy="310.0" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 91, 75.9 µs</title></circle>
+<circle cx="312.0" cy="295.0" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 128, 151 µs</title></circle>
+<circle cx="338.6" cy="279.9" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 181, 304 µs</title></circle>
+<circle cx="365.3" cy="264.3" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 256, 621 µs</title></circle>
+<circle cx="392.0" cy="243.9" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 362, 1.59 ms</title></circle>
+<circle cx="418.7" cy="227.5" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 512, 3.39 ms</title></circle>
+<circle cx="445.3" cy="212.7" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 724, 6.70 ms</title></circle>
+<circle cx="472.0" cy="199.4" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 1,024, 12.4 ms</title></circle>
+<circle cx="498.7" cy="184.8" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 1,448, 24.2 ms</title></circle>
+<circle cx="525.3" cy="169.6" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 2,048, 48.8 ms</title></circle>
+<circle cx="552.0" cy="154.9" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 2,896, 95.9 ms</title></circle>
+<circle cx="578.7" cy="139.2" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 4,096, 198 ms</title></circle>
+<circle cx="605.4" cy="114.7" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>6. Horner's rule: n = 5,793, 611 ms</title></circle>
+<polyline points="98.6,435.5 123.1,429.9 152.0,419.5 179.9,411.5 205.3,403.9 231.5,396.3 258.6,388.8 285.7,381.4 312.0,373.5 338.6,366.1 365.3,358.6 392.0,350.9 418.7,343.1 445.3,335.4 472.0,327.6 498.7,320.2 525.3,312.4 552.0,304.7 578.7,297.3 605.4,289.2 632.0,281.7 658.7,273.9 685.4,266.2 712.0,259.3 738.7,251.9 765.4,244.5 792.0,237.0 818.7,229.4 845.4,221.9" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="98.6" cy="435.5" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 8, 235 ns</title></circle>
+<circle cx="123.1" cy="429.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 11, 303 ns</title></circle>
+<circle cx="152.0" cy="419.5" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 16, 491 ns</title></circle>
+<circle cx="179.9" cy="411.5" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 23, 707 ns</title></circle>
+<circle cx="205.3" cy="403.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 32, 1.00 µs</title></circle>
+<circle cx="231.5" cy="396.3" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 45, 1.43 µs</title></circle>
+<circle cx="258.6" cy="388.8" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 64, 2.02 µs</title></circle>
+<circle cx="285.7" cy="381.4" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 91, 2.83 µs</title></circle>
+<circle cx="312.0" cy="373.5" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 128, 4.08 µs</title></circle>
+<circle cx="338.6" cy="366.1" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 181, 5.73 µs</title></circle>
+<circle cx="365.3" cy="358.6" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 256, 8.08 µs</title></circle>
+<circle cx="392.0" cy="350.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 362, 11.5 µs</title></circle>
+<circle cx="418.7" cy="343.1" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 512, 16.5 µs</title></circle>
+<circle cx="445.3" cy="335.4" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 724, 23.5 µs</title></circle>
+<circle cx="472.0" cy="327.6" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 1,024, 33.8 µs</title></circle>
+<circle cx="498.7" cy="320.2" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 1,448, 47.4 µs</title></circle>
+<circle cx="525.3" cy="312.4" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 2,048, 67.9 µs</title></circle>
+<circle cx="552.0" cy="304.7" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 2,896, 96.6 µs</title></circle>
+<circle cx="578.7" cy="297.3" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 4,096, 136 µs</title></circle>
+<circle cx="605.4" cy="289.2" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 5,793, 197 µs</title></circle>
+<circle cx="632.0" cy="281.7" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 8,192, 279 µs</title></circle>
+<circle cx="658.7" cy="273.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 11,585, 400 µs</title></circle>
+<circle cx="685.4" cy="266.2" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 16,384, 570 µs</title></circle>
+<circle cx="712.0" cy="259.3" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 23,170, 785 µs</title></circle>
+<circle cx="738.7" cy="251.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 32,768, 1.10 ms</title></circle>
+<circle cx="765.4" cy="244.5" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 46,341, 1.55 ms</title></circle>
+<circle cx="792.0" cy="237.0" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 65,536, 2.18 ms</title></circle>
+<circle cx="818.7" cy="229.4" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 92,682, 3.10 ms</title></circle>
+<circle cx="845.4" cy="221.9" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>7. scan lemma: n = 131,072, 4.39 ms</title></circle>
+<polyline points="98.6,464.3 123.1,460.2 152.0,454.8 179.9,448.9 205.3,442.8 231.5,436.8 258.6,429.2 285.7,422.2 312.0,414.5 338.6,406.4 365.3,399.4 392.0,392.4 418.7,384.8 445.3,378.0 472.0,370.7 498.7,362.1 525.3,354.4 552.0,345.5 578.7,338.4 605.4,330.8 632.0,323.3 658.7,315.7 685.4,308.6 712.0,301.3 738.7,292.7 765.4,284.1 792.0,276.2 818.7,269.7 845.4,263.0" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="94.7" y="460.4" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 8, 62.3 ns</title></rect>
+<rect x="119.2" y="456.3" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 11, 75.3 ns</title></rect>
+<rect x="148.1" y="450.9" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 16, 96.3 ns</title></rect>
+<rect x="176.0" y="445.0" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 23, 127 ns</title></rect>
+<rect x="201.4" y="438.9" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 32, 167 ns</title></rect>
+<rect x="227.6" y="432.9" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 45, 221 ns</title></rect>
+<rect x="254.7" y="425.3" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 64, 314 ns</title></rect>
+<rect x="281.8" y="418.3" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 91, 432 ns</title></rect>
+<rect x="308.1" y="410.6" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 128, 616 ns</title></rect>
+<rect x="334.7" y="402.5" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 181, 896 ns</title></rect>
+<rect x="361.4" y="395.5" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 256, 1.24 µs</title></rect>
+<rect x="388.1" y="388.5" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 362, 1.71 µs</title></rect>
+<rect x="414.8" y="380.9" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 512, 2.42 µs</title></rect>
+<rect x="441.4" y="374.1" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 724, 3.31 µs</title></rect>
+<rect x="468.1" y="366.8" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 1,024, 4.63 µs</title></rect>
+<rect x="494.8" y="358.2" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 1,448, 6.90 µs</title></rect>
+<rect x="521.4" y="350.5" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 2,048, 9.83 µs</title></rect>
+<rect x="548.1" y="341.6" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 2,896, 14.8 µs</title></rect>
+<rect x="574.8" y="334.5" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 4,096, 20.5 µs</title></rect>
+<rect x="601.5" y="326.9" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 5,793, 29.1 µs</title></rect>
+<rect x="628.1" y="319.4" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 8,192, 41.2 µs</title></rect>
+<rect x="654.8" y="311.8" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 11,585, 58.3 µs</title></rect>
+<rect x="681.5" y="304.7" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 16,384, 81.1 µs</title></rect>
+<rect x="708.1" y="297.4" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 23,170, 113 µs</title></rect>
+<rect x="734.8" y="288.8" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 32,768, 168 µs</title></rect>
+<rect x="761.5" y="280.2" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 46,341, 250 µs</title></rect>
+<rect x="788.1" y="272.3" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 65,536, 359 µs</title></rect>
+<rect x="814.8" y="265.8" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 92,682, 485 µs</title></rect>
+<rect x="841.5" y="259.1" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"><title>8. fold–scan fusion: n = 131,072, 661 µs</title></rect>
+<text x="457.3" y="110.7" font-size="14" fill="#0b0b0b" font-weight="600">O(n³)</text>
+<text x="457.3" y="126.7" font-size="12" fill="#52514e" >steps 1–5</text>
+<text x="617.4" y="116.7" font-size="14" fill="#0b0b0b" font-weight="600">O(n²)</text>
+<text x="617.4" y="132.7" font-size="12" fill="#52514e" >step 6</text>
+<text x="857.4" y="223.9" font-size="14" fill="#0b0b0b" font-weight="600">O(n)</text>
+<text x="857.4" y="239.9" font-size="12" fill="#52514e" >steps 7–8</text>
+<text x="68.0" y="588.0" font-size="12" fill="#898781" text-anchor="end">Step</text>
+<text x="88.0" y="588.0" font-size="12" fill="#898781" >Law</text>
+<text x="238.0" y="588.0" font-size="12" fill="#898781" >Line of the calc block</text>
+<text x="764.0" y="588.0" font-size="12" fill="#898781" >Bird's cost</text>
+<text x="936.0" y="588.0" font-size="12" fill="#898781" text-anchor="end">Measured slope</text>
+<line x1="24.0" x2="936.0" y1="597.0" y2="597.0" stroke="#e1e0d9" stroke-width="1" shape-rendering="crispEdges"/>
+<line x1="24.0" x2="48.0" y1="610.0" y2="610.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="36.0" cy="610.0" r="4.500000" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></circle>
+<text x="68.0" y="614.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">1</text>
+<text x="88.0" y="614.0" font-size="13" fill="#0b0b0b" >specification</text>
+<text x="238.0" y="614.0" font-size="13" fill="#52514e" >maxL ∘ map sum ∘ segs</text>
+<text x="764.0" y="614.0" font-size="13" fill="#0b0b0b" >O(n³)</text>
+<text x="936.0" y="614.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">3.10</text>
+<line x1="24.0" x2="48.0" y1="636.0" y2="636.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<rect x="32.1" y="632.1" width="7.8" height="7.8" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></rect>
+<text x="68.0" y="640.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">2</text>
+<text x="88.0" y="640.0" font-size="13" fill="#0b0b0b" >definition of segs</text>
+<text x="238.0" y="640.0" font-size="13" fill="#52514e" >maxL ∘ map sum ∘ concat ∘ map tails ∘ inits</text>
+<text x="764.0" y="640.0" font-size="13" fill="#0b0b0b" >O(n³)</text>
+<text x="936.0" y="640.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">3.10</text>
+<line x1="24.0" x2="48.0" y1="662.0" y2="662.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="36.0,656.6 31.3,664.7 40.7,664.7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></polygon>
+<text x="68.0" y="666.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">3</text>
+<text x="88.0" y="666.0" font-size="13" fill="#0b0b0b" >map promotion</text>
+<text x="238.0" y="666.0" font-size="13" fill="#52514e" >maxL ∘ concat ∘ map (map sum) ∘ map tails ∘ inits</text>
+<text x="764.0" y="666.0" font-size="13" fill="#0b0b0b" >O(n³)</text>
+<text x="936.0" y="666.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">3.09</text>
+<line x1="24.0" x2="48.0" y1="688.0" y2="688.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="36.0,682.4 41.6,688.0 36.0,693.6 30.4,688.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></polygon>
+<text x="68.0" y="692.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">4</text>
+<text x="88.0" y="692.0" font-size="13" fill="#0b0b0b" >fold promotion</text>
+<text x="238.0" y="692.0" font-size="13" fill="#52514e" >maxL ∘ map maxL ∘ map (map sum) ∘ map tails ∘ inits</text>
+<text x="764.0" y="692.0" font-size="13" fill="#0b0b0b" >O(n³)</text>
+<text x="936.0" y="692.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">3.12</text>
+<line x1="24.0" x2="48.0" y1="714.0" y2="714.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="36.0,719.4 31.3,711.3 40.7,711.3" fill="#2a78d6" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></polygon>
+<text x="68.0" y="718.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">5</text>
+<text x="88.0" y="718.0" font-size="13" fill="#0b0b0b" >map distributivity</text>
+<text x="238.0" y="718.0" font-size="13" fill="#52514e" >maxL ∘ map (maxL ∘ map sum ∘ tails) ∘ inits</text>
+<text x="764.0" y="718.0" font-size="13" fill="#0b0b0b" >O(n³)</text>
+<text x="936.0" y="718.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">3.13</text>
+<line x1="24.0" x2="48.0" y1="740.0" y2="740.0" stroke="#eb6834" stroke-width="2" stroke-linecap="round"/>
+<circle cx="36.0" cy="740.0" r="4.500000" fill="#eb6834" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></circle>
+<text x="68.0" y="744.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">6</text>
+<text x="88.0" y="744.0" font-size="13" fill="#0b0b0b" >Horner's rule</text>
+<text x="238.0" y="744.0" font-size="13" fill="#52514e" >maxL ∘ map (foldl (⊙) 0) ∘ inits</text>
+<text x="764.0" y="744.0" font-size="13" fill="#0b0b0b" >O(n²)</text>
+<text x="936.0" y="744.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">2.10</text>
+<line x1="24.0" x2="48.0" y1="766.0" y2="766.0" stroke="#1baf7a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="36.0" cy="766.0" r="4.500000" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></circle>
+<text x="68.0" y="770.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">7</text>
+<text x="88.0" y="770.0" font-size="13" fill="#0b0b0b" >scan lemma</text>
+<text x="238.0" y="770.0" font-size="13" fill="#52514e" >maxL ∘ scanl (⊙) 0</text>
+<text x="764.0" y="770.0" font-size="13" fill="#0b0b0b" >O(n)</text>
+<text x="936.0" y="770.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">0.99</text>
+<line x1="24.0" x2="48.0" y1="792.0" y2="792.0" stroke="#1baf7a" stroke-width="2" stroke-linecap="round"/>
+<rect x="32.1" y="788.1" width="7.8" height="7.8" fill="#1baf7a" stroke="#fcfcfb" stroke-width="4" paint-order="stroke"></rect>
+<text x="68.0" y="796.0" font-size="13" fill="#52514e" text-anchor="end" font-variant-numeric="tabular-nums">8</text>
+<text x="88.0" y="796.0" font-size="13" fill="#0b0b0b" >fold–scan fusion</text>
+<text x="238.0" y="796.0" font-size="13" fill="#52514e" >fst ∘ foldl (⊗) (0, 0)</text>
+<text x="764.0" y="796.0" font-size="13" fill="#0b0b0b" >O(n)</text>
+<text x="936.0" y="796.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-variant-numeric="tabular-nums">1.02</text>
+<text x="24.0" y="854.0" font-size="12" fill="#898781" >Best of three batches per point, on random lists. A line stops after its first call over 500 ms. Slopes are least-squares fits over calls of 100 µs or more.</text>
+</svg>
