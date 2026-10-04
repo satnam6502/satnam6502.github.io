@@ -155,3 +155,5 @@ the repository.
 lake build                   # checks the derivation
 lake exe kadane_bench        # the timings and plots
 ```
+
+You can find all the code used for this article at [https://github.com/satnam6502/bird-meertens](https://github.com/satnam6502/bird-meertens).
