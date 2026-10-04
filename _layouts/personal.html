@@ -99,7 +99,8 @@
       <h3>Posts</h3>
       <dl class="posts">
         {% for post in site.posts %}
-            <dt><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time></dt>
+            {% assign date = post.date | date: "%Y-%m-%d" %}
+            <dt><time datetime="{{ date }}">{{ date }}</time></dt>
             <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
         {% endfor %}
       </dl>
