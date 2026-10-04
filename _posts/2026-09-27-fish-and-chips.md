@@ -3,6 +3,7 @@ layout: personal
 title: "Fish and Chips: Functional Geometry and FPGA Circuit Layout"
 description: "Escher's Square Limit drawn in Lean 4 with Peter Henderson's Functional Geometry, and how the same kind of layout combinators describe FPGA circuit layouts."
 image: "/images/squarelimit.png"
+permalink: /escher-fish/
 tags:
   author: satnam_singh
 ---
