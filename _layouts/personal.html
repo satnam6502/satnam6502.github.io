@@ -9,7 +9,9 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/png" href="/images/icon.jpg">
     <style>
-      .post-date { display: inline-block; min-width: 10ch; font-variant-numeric: tabular-nums; }
+      .posts { display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 1em; }
+      .posts dt { font-weight: bold; font-variant-numeric: tabular-nums; }
+      .posts dd { margin: 0; overflow-wrap: anywhere; }
     </style>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -95,11 +97,13 @@
       {{ content }}
 
       <h3>Posts</h3>
-      <p>
+      <dl class="posts">
         {% for post in site.posts %}
-            <b class="post-date">{{ post.date | date: "%Y-%m-%d" }}</b> <a href="{{ post.url }}">{{ post.title }}</a><br>
+            {% assign post_date = post.date | date: "%Y-%m-%d" %}
+            <dt><time datetime="{{ post_date }}">{{ post_date }}</time></dt>
+            <dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
         {% endfor %}
-      </p>
+      </dl>
 
       </section>
     </div>
