@@ -15,7 +15,7 @@
 <meta name="twitter:title" content="{{ page.title }}" />
 {% if page.description %}
   <meta name="twitter:description"
-    content="{{ page.description }}">
+    content="{{ page.description | xml_escape }}">
 {%- else %}
   <meta name="twitter:description"
     content="{{ page.content | strip_html | xml_escape
