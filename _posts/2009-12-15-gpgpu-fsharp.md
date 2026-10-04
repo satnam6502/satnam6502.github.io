@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "GPGPU and x64 Multicore Programming with Accelerator from F#"
 tags:
   author: satnam_singh

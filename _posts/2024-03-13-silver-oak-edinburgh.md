@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Silver Oak: Building A High Assurance Silicon Root of Trust"
 tags:
   author: satnam_singh

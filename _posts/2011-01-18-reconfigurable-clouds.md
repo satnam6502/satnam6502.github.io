@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Reconfigurable Data Processing for Clouds"
 tags:
   author: satnam_singh

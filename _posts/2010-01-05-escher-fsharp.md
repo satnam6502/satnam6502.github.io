@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "An F# Functional Geometry Description of Escher's Fish"
 tags:
   author: satnam_singh

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "My Haskell Interlude Podcast Interview"
 tags:
   author: satnam_singh

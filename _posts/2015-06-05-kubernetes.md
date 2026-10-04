@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Cluster Management with Kubernetes"
 tags:
   author: satnam_singh

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Formally Verifying Hardware with Aristotle, Harmonic's AI Theorem Prover (talk at Imperial College London)"
 tags:
   author: satnam_singh

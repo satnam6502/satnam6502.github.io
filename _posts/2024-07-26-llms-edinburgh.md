@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Accelerating Large Language Models with Groq's LPU Machine Learing Chips"
 tags:
   author: satnam_singh
