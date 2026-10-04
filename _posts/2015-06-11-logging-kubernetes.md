@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Cluster Level Logging with Kubernetes"
 tags:
   author: satnam_singh

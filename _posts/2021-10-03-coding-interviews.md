@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Advice for Whiteboard Coding Interviews"
 description: "Advice for whiteboard coding interviews."
 permalink: /coding-interviews/

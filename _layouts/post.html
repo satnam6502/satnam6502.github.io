@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+{% include head.html %}
+    <style>
+      section.post { float: none; width: auto; }
+      .post-footer { margin-top: 40px; font-size: 13px; }
+      .post-footer p { margin: 0 0 5px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section class="post">
+      {{ content }}
+
+      <div class="post-footer">
+        <hr>
+        <p><a href="/">Satnam Singh</a> · <a href="/bio/">Bio</a> · <a href="mailto:s.singh@acm.org">s.singh@acm.org</a></p>
+        <p><a href="https://www.linkedin.com/in/satnam6502">LinkedIn</a> · <a href="https://twitter.com/{{ site.twitter.username }}">Twitter</a> · <a href="https://bsky.app/profile/satnam6502.bsky.social">Bluesky</a> · <a href="https://github.com/satnam6502">GitHub</a> · <a href="https://scholar.google.com/citations?user=q_czEj0AAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://orcid.org/0000-0002-2017-4310">ORCID</a></p>
+      </div>
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

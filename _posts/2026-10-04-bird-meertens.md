@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Formally deriving programs from specifications using Lean 4 in the Bird-Meertens style"
 description: "Replaying Richard Bird's calculation of Kadane's maximum segment sum algorithm in Lean 4: every step is a checked law, and every line is a program we can time."
 image: "/images/kadane.png"

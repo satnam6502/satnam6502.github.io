@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Creating a Windows DLL from a Haskell Program and calling it from C++"
 tags:
   author: satnam_singh

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "My Type Theory for All Podcast Interview"
 tags:
   author: satnam_singh

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "Obiturary for Ross Anderson"
 description: "Ross Anderson"
 permalink: /ross_anderson/

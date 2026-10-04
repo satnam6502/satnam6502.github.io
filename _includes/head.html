@@ -1,0 +1,41 @@
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" type="image/png" href="/images/icon.jpg">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+<meta name="twitter:site" content="@{{site.twitter.username }}" />
+<meta name="twitter:creator" content="@{{site.twitter.username }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title }}" />
+{% if page.description %}
+  <meta name="twitter:description"
+    content="{{ page.description | xml_escape }}">
+{%- else %}
+  <meta name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">
+{%- endif %}
+
+{% if page.image %}
+<meta name="twitter:image" content="{{ page.image | absolute_url }}" />
+{%- else %}
+<meta name="twitter:image" content="{{ site.logo | absolute_url }}" />
+{%- endif %}
+
+<!-- Google Analytics (gtag.js) -->
+{%- if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+{%- endif %}
+

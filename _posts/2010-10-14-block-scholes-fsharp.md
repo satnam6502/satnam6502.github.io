@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "F# Black-Scholes running on GPUs and SSE3 Multicore Processors using Accelerator"
 tags:
   author: satnam_singh

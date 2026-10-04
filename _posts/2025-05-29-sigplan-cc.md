@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "My SIGPLAN Current Continuation YouTube Interview"
 tags:
   author: satnam_singh

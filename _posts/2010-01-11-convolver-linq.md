@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: "A C# implementation of a convolver using Accelerator for GPGPU and multicore targets using LINQ operators"
 tags:
   author: satnam_singh
