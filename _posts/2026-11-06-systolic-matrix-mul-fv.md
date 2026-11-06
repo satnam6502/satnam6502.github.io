@@ -47,7 +47,7 @@ This post contains links to Aristotle formal verification reports for a systolic
 
 The systolic array matrix multipliers were AI generated, along with tests. The process to produce them also involved mutation tests to break the implementation and make sure the correctness theorem no longer proves (to ensure the theorem connected the specification to the implementation).
 
-The SystemVerilog specification is a fairly direct transcription of this, which captures the space/time pipelined behavior of the systolic array matrix multiplier (for the N=4 case):
+The SystemVerilog specification is a fairly direct transcription of the equation below, which captures the space/time pipelined behavior of the systolic array matrix multiplier (for the N=4 case):
 
 [![The specification: c(i,j) equals the sum over t from 0 to 3N−3 and over k from 0 to N−1 of a(i,k) · b(k,j) · δ(t, i+j+k).](/images/systolic-matrix-mul-fv/spec-equation.jpg)](/images/systolic-matrix-mul-fv/spec-equation.jpg)
 
