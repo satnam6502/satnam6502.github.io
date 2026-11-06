@@ -9,8 +9,6 @@ tags:
 ---
 # Formally Verifying the MUL and DIV instructions of the Ibex RISC-V CPU using Aristotle
 
-[![The Aristotle dashboard showing all nine properties proved for the Ibex multiply and divide unit.](/images/ibex-mul-fv/cover.jpg)](/images/ibex-mul-fv/cover.jpg)
-
 **It takes just one sentence to formally verify the functional correctness of all the multiplication and division instructions of the Ibex RISC-V CPU** using our Aristotle AI theorem prover via MCP: "*Use Aristotle to formally verify the multiplication and division instructions for the Ibex RISC-V core configured with a single-cycle multiplier by comparing the RTL implementation against the SAIL RISC-V SVA formal specification.*" **That's it!**
 
 This will orchestrate the formal verification of the MUL and DIV instructions against the formal specification provided by the SAIL ISA specification for RISC-V, with Aristotle reporting each property as being proved correct e.g.
@@ -45,7 +43,7 @@ Aristotle formally verifies 9 properties about the instructions MUL, MULH, DIV, 
 
 *When complete the verification dashboard indicates the proof status of each property.*
 
-What's being proved: eight assertions (`assert_mul` … `assert_remu`). Each says that whenever Ibex's `ibex_multdiv_fast` (with `RV32M = RV32MSingleCycle`) reports a valid result for that instruction, the result equals what the Sail model writes to `rd` for the same operands. The prompt asks it to cover division by zero, signed overflow (`0x80000000 / -1`) and both values of `data_ind_timing`. It also asks for a proof that every instruction completes, so the checks can't pass vacuously. There are no environment assumptions.
+What's being proved: nine assertions (`assert_mul` … `assert_remu`). Each says that whenever Ibex's `ibex_multdiv_fast` (with `RV32M = RV32MSingleCycle`) reports a valid result for that instruction, the result equals what the Sail model writes to `rd` for the same operands. The prompt asks it to cover division by zero, signed overflow (`0x80000000 / -1`) and both values of `data_ind_timing`. It also asks for a proof that every instruction completes, so the checks can't pass vacuously. There are no environment assumptions.
 
 This is the top-level SVA property that is proved for the MUL instruction, which connects the MUL RTL implementation to the formal specification taken from the SAIL RISC-V ISA model.
 
