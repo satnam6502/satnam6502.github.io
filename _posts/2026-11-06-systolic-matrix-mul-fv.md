@@ -9,7 +9,7 @@ tags:
 ---
 # Formally verifying systolic array matrix multipliers with Aristotle
 
-This thread contains links to Aristotle formal verification reports for a systolic array matrix multiplier at sizes 4x4, 8x8, 16x16, 32x32 and 64x64 for FP16 values. You can read the properties that were formally verified in Lean 4, see the SystemVerliog code, and read the verification summary. The formal verification is a direct comparison against a high level functional specification of a pipelined systolic matrix multiplier. I think this kind of direct formal verification of a matrix like this against a fairly direct high level specification is unusual.
+This post contains links to Aristotle formal verification reports for a systolic array matrix multiplier at sizes 4x4, 8x8, 16x16, 32x32 and 64x64 for FP16 values. You can read the properties that were formally verified in Lean 4, see the SystemVerilog code, and read the verification summary. The formal verification is a direct comparison against a high level functional specification of a pipelined systolic matrix multiplier. I think this kind of direct formal verification of a matrix multiplier like this against a fairly direct high level specification is unusual.
 
 ## 4x4
 
@@ -45,9 +45,9 @@ This thread contains links to Aristotle formal verification reports for a systol
 
 ## How the multipliers were produced and specified
 
-The systolic array matrix multipliers were AI generated, along with tests. The process to produce them also involved mutation tests to break the implementation and make sure the correctness theorem no longer prover (to ensure the theorem connected the specification to the implementation).
+The systolic array matrix multipliers were AI generated, along with tests. The process to produce them also involved mutation tests to break the implementation and make sure the correctness theorem no longer proves (to ensure the theorem connected the specification to the implementation).
 
-The SystemVerilog specification is a fairly direct transcription of this, which captures the same/time pipelined behavior of the systolic array matrix multiplier (for the N=4 case):
+The SystemVerilog specification is a fairly direct transcription of this, which captures the space/time pipelined behavior of the systolic array matrix multiplier (for the N=4 case):
 
 [![The specification: c(i,j) equals the sum over t from 0 to 3N−3 and over k from 0 to N−1 of a(i,k) · b(k,j) · δ(t, i+j+k).](/images/systolic-matrix-mul-fv/spec-equation.jpg)](/images/systolic-matrix-mul-fv/spec-equation.jpg)
 
