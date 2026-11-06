@@ -21,9 +21,9 @@ This will orchestrate the formal verification of the MUL and DIV instructions ag
 
 All you need to do is to install Aristotle and register its MCP server with your favorite agent (Claude, Codex etc.). <https://aristotle.harmonic.fun/>
 
-Then checkout the lowRISC Ibex RISC-V core for GitHub: <https://github.com/lowrisc/ibex>
+Then checkout the lowRISC Ibex RISC-V core from GitHub: <https://github.com/lowrisc/ibex>
 
-Then cd into the ibex directory and use your agent with the prompt the one line prompt. That's it!
+Then cd into the ibex directory and use your agent with the one line prompt. That's it!
 
 [![The one line prompt typed into an agent.](/images/ibex-mul-fv/one-line-prompt.jpg)](/images/ibex-mul-fv/one-line-prompt.jpg)
 
@@ -39,7 +39,7 @@ After your agent creates the verification setup it submits it to Aristotle for f
 
 Aristotle **compiles** the source SystemVerilog code and any SystemVerilog Assertions into Lean 4 code against a carefully handcrafted formal model of digital circuits. Our approach does not rely on a non-deterministic and unsound transliteration of SystemVerilog into Lean with an LLM.
 
-Aristotle formally verifies 9 properties about the instructions MUL, MULH, DIV, REV etc. You can see the full verification report at this URL (you'll need to sign in first): <https://aristotle.harmonic.fun/projects/80e89bbc-2d03-46c5-86fa-f60c186de8aa>
+Aristotle formally verifies 9 properties about the instructions MUL, MULH, DIV, REM etc. You can see the full verification report at this URL (you'll need to sign in first): <https://aristotle.harmonic.fun/projects/80e89bbc-2d03-46c5-86fa-f60c186de8aa>
 
 [![The Aristotle verification dashboard showing the proof status of each property.](/images/ibex-mul-fv/dashboard-results.jpg)](/images/ibex-mul-fv/dashboard-results.jpg)
 
@@ -59,7 +59,7 @@ This is the Lean representation of the SVA property that checks the functional c
 
 *The Lean representation of the MUL correctness property.*
 
-In the Ibex repo there are formal verification script for formally verifying many SAIL ISA properties but the formal check for the correctness of the MUL instruction is omitted because it can't be done with model checking based tools. However, as you see, Aristotle has no problems proving correct the MUL and related instructions.
+In the Ibex repo there are formal verification scripts for formally verifying many SAIL ISA properties but the formal check for the correctness of the MUL instruction is omitted because it can't be done with model checking based tools. However, as you see, Aristotle has no problems proving correct the MUL and related instructions.
 
 Verifications for the multi-cycle versions of the MUL etc. instructions are also formally verified by Aristotle without problems.
 
@@ -67,6 +67,6 @@ Verifications for the multi-cycle versions of the MUL etc. instructions are also
 
 *A similar formal verification that was performed for the fast multi-cycle version of the MUL instruction.*
 
-Now you have seen how easy it to apply the Aristotle theorem prover, try out this verification for yourself, or run it on your own SystemVerilog code. Provide SVA, ask Aristotle to automformalise properties you specify in English, or even ask Aristotle to come up with relevant properties itself and then prove them. Try it out! <https://aristotle.harmonic.fun/>
+Now you have seen how easy it is to apply the Aristotle theorem prover, try out this verification for yourself, or run it on your own SystemVerilog code. Provide SVA, ask Aristotle to autoformalise properties you specify in English, or even ask Aristotle to come up with relevant properties itself and then prove them. Try it out! <https://aristotle.harmonic.fun/>
 
 *This post was originally published on [X](https://x.com/satnam6502/status/2117656802523312311) and [LinkedIn](https://www.linkedin.com/pulse/formally-verifying-mul-div-instructions-ibex-risc-v-cpu-satnam-singh-qduvc).*
